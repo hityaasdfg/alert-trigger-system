@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATO Basket Builder - Risk Management</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    
+
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>ATO Basket Builder</h1>
+            <div id="userIdDisplay" class="user-id-display"></div>
+        </div>
+
+        <div class="main-tabs">
+            <button class="main-tab active" onclick="showMainTab('builder', this)">🎯 Basket Builder</button>
+            <button class="main-tab" onclick="showMainTab('active', this)">📊 Active ATOs</button>
+            <!-- <button class="main-tab" onclick="showMainTab('monitor', this)">📈 Live Monitor</button> -->
+        </div>
+
+        <!-- Basket Builder Tab -->
+        <div id="builder" class="tab-content active">
+            <!-- Alert Configuration -->
+            <div class="section">
+                <h3>📈 Alert Configuration</h3>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Underlying/Index</label>
+                        <div class="search-container">
+                            <input type="text" id="underlying" class="search-input" placeholder="Type to search..." onkeyup="searchUnderlying(this.value)" autocomplete="off" required>
+                            <div id="underlying-dropdown" class="search-dropdown"></div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Alert Condition</label>
+                        <select id="operator" required>
+                            <option value="">Select Condition</option>
+                            <option value=">">Above (>)</option>
+                            <option value="<">Below (<)</option>
+                            <option value=">=">Above or Equal (>=)</option>
+                            <option value="<=">Below or Equal (<=)</option>
+                            <option value="==">Exactly (==)</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Trigger Price</label>
+                        <input type="number" id="triggerPrice" step="0.01" placeholder="e.g., 22500" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="validTill">Valid Till</label>
+                        <input type="datetime-local" id="validTill" required>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Baskets Section -->
+            <div class="section">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                    <h3>🧺 Strategy Baskets</h3>
+                    <button class="btn btn-success" onclick="addNewBasket()">+ Add New Basket</button>
+                </div>
+                
+                <div id="basketsContainer">
+                    <!-- Baskets will be dynamically added here -->
+                </div>
+            </div>
+
+            <!-- Create ATO Section -->
+            <div class="create-ato-section">
+                <button class="btn create-ato-btn" onclick="createATOWithProperMargins()"> CREATE ATO ALERT</button>
+                <p style="margin-top: 15px; color: #94a3b8;">
+                    
+                </p>
+            </div>
+        </div>
+
+        <!-- Active ATOs Tab -->
+        <div id="active" class="tab-content">
+            <h3 style="text-align: center; margin-bottom: 30px;">📊 Active Alert Triggered Orders</h3>
+            <div id="activeATOsList">
+                <p style="text-align: center; color: #94a3b8;">No active ATOs found. Create your first ATO in the Builder tab.</p>
+            </div>
+        </div>
+
+        <!-- Live Monitor Tab -->
+        <div id="monitor" class="tab-content">
+            <h3 style="text-align: center; margin-bottom: 30px;">📈 Live Market Monitor</h3>
+            <div id="monitorContent">
+                <p style="text-align: center; color: #94a3b8;">Market monitoring will be displayed here when ATOs are active.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Market Depth Modal -->
+    <div id="depthModal" class="depth-modal">
+        <div class="depth-modal-content">
+            <div class="depth-modal-header">
+                <h3 id="depthModalTitle">Market Depth - Option Premium</h3>
+                <button class="close-modal" onclick="closeDepthModal()">&times;</button>
+            </div>
+            <div class="depth-modal-body">
+                <div class="market-depth-container">
+                    <div class="depth-side bid-side">
+                        <h4>📈 Bids</h4>
+                        <div id="bidLevels">
+                            <!-- Bid levels will be populated here -->
+                        </div>
+                    </div>
+                    <div class="depth-side ask-side">
+                        <h4>📉 Asks</h4>
+                        <div id="askLevels">
+                            <!-- Ask levels will be populated here -->
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="premium-summary">
+                    <div class="premium-summary-item">
+                        <span>Best Bid:</span>
+                        <span id="bestBid">-</span>
+                    </div>
+                    <div class="premium-summary-item">
+                        <span>Best Ask:</span>
+                        <span id="bestAsk">-</span>
+                    </div>
+                    <div class="premium-summary-item">
+                        <span>Spread:</span>
+                        <span id="bidAskSpread">-</span>
+                    </div>
+                    <div class="premium-summary-item">
+                        <span>Mid Price:</span>
+                        <span id="midPrice">-</span>
+                    </div>
+                </div>
+
+                <div class="depth-action-buttons">
+                    <button class="depth-select-btn" onclick="selectFromDepth('best_bid')">Use Best Bid</button>
+                    <button class="depth-select-btn" onclick="selectFromDepth('best_ask')">Use Best Ask</button>
+                    <button class="depth-select-btn" onclick="selectFromDepth('mid_price')">Use Mid Price</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        window.ATO_USER_KEY = new URLSearchParams(window.location.search).get('key');
+        document.addEventListener("DOMContentLoaded", async function () {
+        const userId = window.ATO_USER_KEY || "N/A";
+        const userIdDiv = document.getElementById("userIdDisplay");
+
+        if (!userIdDiv || userId === "N/A") return;
+
+        try {
+            const response = await fetch("/user_get", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ user_id: userId })
+            });
+
+            const data = await response.json();
+
+            if (data.status === "success") {
+                userIdDiv.textContent = `USER : ${data.user_key}`;
+            } else {
+                userIdDiv.textContent = `USER : ${userId} (Not Found)`;
+            }
+        } catch (err) {
+            console.error("Error fetching user:", err);
+            userIdDiv.textContent = `USER : ${userId} (Error)`;
+        }
+    });
+    </script>
+    <!-- ✅ Config -->
+    <script src="{{ url_for('static', filename='js/config.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+    <!-- ✅ Utils -->
+    <script src="{{ url_for('static', filename='js/utils/datetime.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/utils/helpers.js') }}"></script>
+
+    <!-- ✅ API -->
+    <script src="{{ url_for('static', filename='js/api/api-client.js') }}"></script>
+
+    <!-- ✅ State -->
+    <script src="{{ url_for('static', filename='js/state/global-state.js') }}"></script>
+
+    <!-- ✅ Components -->
+
+    <script src="{{ url_for('static', filename='js/components/navigation.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/basket-management.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/search.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/margin-calculations.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/risk-management.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/premium-management.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/ltp-display.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/leg-form.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/rendering.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/active-atos-display.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/ato-management.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/ato-editing.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/components/validation.js') }}"></script>
+</body>
+</html>

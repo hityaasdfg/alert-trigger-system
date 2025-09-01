@@ -1,0 +1,3106 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "KiteTicker",
+        "importPath": "kiteconnect",
+        "description": "kiteconnect",
+        "isExtraImport": true,
+        "detail": "kiteconnect",
+        "documentation": {}
+    },
+    {
+        "label": "KiteConnect",
+        "importPath": "kiteconnect",
+        "description": "kiteconnect",
+        "isExtraImport": true,
+        "detail": "kiteconnect",
+        "documentation": {}
+    },
+    {
+        "label": "KiteConnect",
+        "importPath": "kiteconnect",
+        "description": "kiteconnect",
+        "isExtraImport": true,
+        "detail": "kiteconnect",
+        "documentation": {}
+    },
+    {
+        "label": "KiteConnect",
+        "importPath": "kiteconnect",
+        "description": "kiteconnect",
+        "isExtraImport": true,
+        "detail": "kiteconnect",
+        "documentation": {}
+    },
+    {
+        "label": "KiteTicker",
+        "importPath": "kiteconnect",
+        "description": "kiteconnect",
+        "isExtraImport": true,
+        "detail": "kiteconnect",
+        "documentation": {}
+    },
+    {
+        "label": "KiteConnect",
+        "importPath": "kiteconnect",
+        "description": "kiteconnect",
+        "isExtraImport": true,
+        "detail": "kiteconnect",
+        "documentation": {}
+    },
+    {
+        "label": "KiteConnect",
+        "importPath": "kiteconnect",
+        "description": "kiteconnect",
+        "isExtraImport": true,
+        "detail": "kiteconnect",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "INSTRUMENTS_CSV_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "INSTRUMENTS_CSV_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "INSTRUMENTS_CSV_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "SQLITE_DB_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATE_FOLDER_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "SQLITE_DB_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "INSTRUMENTS_CSV_PATH",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_dataframe",
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "isExtraImport": true,
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data",
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "isExtraImport": true,
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "single_execute_method",
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "isExtraImport": true,
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data",
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "isExtraImport": true,
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data",
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "isExtraImport": true,
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "query_execute_method",
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "isExtraImport": true,
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "STRATEGY_API_URL_EXIT",
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "isExtraImport": true,
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "get_instrument_token",
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "isExtraImport": true,
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "track_alert_task",
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "isExtraImport": true,
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "mysql.connector",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mysql.connector",
+        "description": "mysql.connector",
+        "detail": "mysql.connector",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "build_payload_from_db",
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "isExtraImport": true,
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "insert_eq_scanner_entries",
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "isExtraImport": true,
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "verify_trades_data",
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "isExtraImport": true,
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "send_full_exit",
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "isExtraImport": true,
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "event",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "generate_and_send_email",
+        "importPath": "send_email",
+        "description": "send_email",
+        "isExtraImport": true,
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "generate_and_send_execution_email",
+        "importPath": "send_email",
+        "description": "send_email",
+        "isExtraImport": true,
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "generate_and_send_exit_email",
+        "importPath": "send_email",
+        "description": "send_email",
+        "isExtraImport": true,
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "send_gtt_created_email",
+        "importPath": "send_email",
+        "description": "send_email",
+        "isExtraImport": true,
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "send_order_success_email",
+        "importPath": "send_email",
+        "description": "send_email",
+        "isExtraImport": true,
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models_db",
+        "description": "models_db",
+        "isExtraImport": true,
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "Alert",
+        "importPath": "models_db",
+        "description": "models_db",
+        "isExtraImport": true,
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "Basket",
+        "importPath": "models_db",
+        "description": "models_db",
+        "isExtraImport": true,
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "Leg",
+        "importPath": "models_db",
+        "description": "models_db",
+        "isExtraImport": true,
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "RiskSetting",
+        "importPath": "models_db",
+        "description": "models_db",
+        "isExtraImport": true,
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "MutableList",
+        "importPath": "sqlalchemy.ext.mutable",
+        "description": "sqlalchemy.ext.mutable",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.mutable",
+        "documentation": {}
+    },
+    {
+        "label": "JSON",
+        "importPath": "sqlalchemy.types",
+        "description": "sqlalchemy.types",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.types",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasicAuth",
+        "importPath": "requests.auth",
+        "description": "requests.auth",
+        "isExtraImport": true,
+        "detail": "requests.auth",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasicAuth",
+        "importPath": "requests.auth",
+        "description": "requests.auth",
+        "isExtraImport": true,
+        "detail": "requests.auth",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "formatdate",
+        "importPath": "email.utils",
+        "description": "email.utils",
+        "isExtraImport": true,
+        "detail": "email.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "sys,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys.",
+        "description": "sys.",
+        "detail": "sys.",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "json,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json.",
+        "description": "json.",
+        "detail": "json.",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "KITE_API_SECRET",
+        "kind": 5,
+        "importPath": "constants",
+        "description": "constants",
+        "peekOfCode": "KITE_API_SECRET = open(ACCESS_TOKEN_PATH)     # Optional for login\n# ─── Redis Config ────────────────────────────────────────────────────────\nREDIS_URL = 'redis://localhost:6379/0'\n# ─── Timezone ────────────────────────────────────────────────────────────\nTIMEZONE = 'Asia/Kolkata'",
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_URL",
+        "kind": 5,
+        "importPath": "constants",
+        "description": "constants",
+        "peekOfCode": "REDIS_URL = 'redis://localhost:6379/0'\n# ─── Timezone ────────────────────────────────────────────────────────────\nTIMEZONE = 'Asia/Kolkata'",
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "TIMEZONE",
+        "kind": 5,
+        "importPath": "constants",
+        "description": "constants",
+        "peekOfCode": "TIMEZONE = 'Asia/Kolkata'",
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PATH",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "DB_PATH = r\"C:\\Users\\Alkalyme\\Downloads\\ato_project\\ato_project\\instance\\ato_system.db\"\nalert_id = \"alert_1754553031_544\"\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\nupdates = {\n    2: 663.65,\n    3: 7844.50\n}\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "alert_id",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "alert_id = \"alert_1754553031_544\"\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\nupdates = {\n    2: 663.65,\n    3: 7844.50\n}\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\nfor leg_id, new_price in updates.items():",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "conn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\nupdates = {\n    2: 663.65,\n    3: 7844.50\n}\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\nfor leg_id, new_price in updates.items():\n    query = \"UPDATE legs SET pnl = ? WHERE id = ?\"",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "cur",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "cur = conn.cursor()\nupdates = {\n    2: 663.65,\n    3: 7844.50\n}\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\nfor leg_id, new_price in updates.items():\n    query = \"UPDATE legs SET pnl = ? WHERE id = ?\"\n    print(\"Executing query:\", query, \"with params:\", (new_price, leg_id))",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "updates",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "updates = {\n    2: 663.65,\n    3: 7844.50\n}\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\nfor leg_id, new_price in updates.items():\n    query = \"UPDATE legs SET pnl = ? WHERE id = ?\"\n    print(\"Executing query:\", query, \"with params:\", (new_price, leg_id))\n    cur.execute(query, (new_price, leg_id))",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "conn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\nfor leg_id, new_price in updates.items():\n    query = \"UPDATE legs SET pnl = ? WHERE id = ?\"\n    print(\"Executing query:\", query, \"with params:\", (new_price, leg_id))\n    cur.execute(query, (new_price, leg_id))\n# cur.execute(\"UPDATE legs SET quantity = 0, price = 4209.85 WHERE basket_id = ( SELECT id FROM baskets WHERE id = 2 AND alert_id = 'alert_1754553596_24' );\")\n# Commit changes\nconn.commit()\nconn.close()",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "cur",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "cur = conn.cursor()\nfor leg_id, new_price in updates.items():\n    query = \"UPDATE legs SET pnl = ? WHERE id = ?\"\n    print(\"Executing query:\", query, \"with params:\", (new_price, leg_id))\n    cur.execute(query, (new_price, leg_id))\n# cur.execute(\"UPDATE legs SET quantity = 0, price = 4209.85 WHERE basket_id = ( SELECT id FROM baskets WHERE id = 2 AND alert_id = 'alert_1754553596_24' );\")\n# Commit changes\nconn.commit()\nconn.close()\nexit(0)",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "basket_ids",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "basket_ids = [row[0] for row in cur.fetchall()]\nprint(f\"Basket IDs to delete: {basket_ids}\")\n# 2️⃣ Delete legs for these baskets\nif basket_ids:\n    leg_delete_query = f\"DELETE FROM legs WHERE basket_id IN ({','.join(['?']*len(basket_ids))})\"\n    print(\"Executing query:\", leg_delete_query, \"with params:\", basket_ids)\n    cur.execute(leg_delete_query, basket_ids)\n# 3️⃣ Delete risk_settings for these baskets\nif basket_ids:\n    risk_delete_query = f\"DELETE FROM risk_settings WHERE basket_id IN ({','.join(['?']*len(basket_ids))})\"",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "basket_delete_query",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "basket_delete_query = \"DELETE FROM baskets WHERE alert_id = ?\"\nprint(\"Executing query:\", basket_delete_query, \"with param:\", alert_id)\ncur.execute(basket_delete_query, (alert_id,))\n# 5️⃣ Delete the alert itself\nalert_delete_query = \"DELETE FROM alerts WHERE id = ?\"\nprint(\"Executing query:\", alert_delete_query, \"with param:\", alert_id)\ncur.execute(alert_delete_query, (alert_id,))\n# Commit changes\nconn.commit()\nconn.close()",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "alert_delete_query",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "alert_delete_query = \"DELETE FROM alerts WHERE id = ?\"\nprint(\"Executing query:\", alert_delete_query, \"with param:\", alert_id)\ncur.execute(alert_delete_query, (alert_id,))\n# Commit changes\nconn.commit()\nconn.close()\nprint(f\"✅ Alert {alert_id} and all related baskets, legs, and risk settings deleted.\")\nexit(0)\nexited_at      = '2025-08-26 15:15:00'\nbasket_id      = 2",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "conn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\n# # ✅ Update legs\n# cur.execute(\"\"\"\n#     UPDATE legs\n#     SET exit_price = ?,\n#         exit_quantity = ?,\n#         exit_price_type = ?,\n#         exit_timestamp = ?,\n#         status = 'exited',",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "cur",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "cur = conn.cursor()\n# # ✅ Update legs\n# cur.execute(\"\"\"\n#     UPDATE legs\n#     SET exit_price = ?,\n#         exit_quantity = ?,\n#         exit_price_type = ?,\n#         exit_timestamp = ?,\n#         status = 'exited',\n#         exited_at = ?",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "today",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "today = datetime.now().strftime(\"%Y-%m-%d\")\nfixed_time = f\"{today} 15:20:00\"\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\ncur.execute(\"\"\"\n    UPDATE alerts\n    SET valid_till = ?\n\"\"\", (fixed_time,))\nconn.commit()\nconn.close()",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "fixed_time",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "fixed_time = f\"{today} 15:20:00\"\nconn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\ncur.execute(\"\"\"\n    UPDATE alerts\n    SET valid_till = ?\n\"\"\", (fixed_time,))\nconn.commit()\nconn.close()\nprint(f\"✅ All alerts valid_till updated to {fixed_time}\")",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "conn = sqlite3.connect(DB_PATH)\ncur = conn.cursor()\ncur.execute(\"\"\"\n    UPDATE alerts\n    SET valid_till = ?\n\"\"\", (fixed_time,))\nconn.commit()\nconn.close()\nprint(f\"✅ All alerts valid_till updated to {fixed_time}\")\nexit(0)",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "cur",
+        "kind": 5,
+        "importPath": "create_payload",
+        "description": "create_payload",
+        "peekOfCode": "cur = conn.cursor()\ncur.execute(\"\"\"\n    UPDATE alerts\n    SET valid_till = ?\n\"\"\", (fixed_time,))\nconn.commit()\nconn.close()\nprint(f\"✅ All alerts valid_till updated to {fixed_time}\")\nexit(0)",
+        "detail": "create_payload",
+        "documentation": {}
+    },
+    {
+        "label": "DummyMarketData",
+        "kind": 6,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "class DummyMarketData:\n    def __init__(self):\n        self.instruments = {\n            256265: {\"symbol\": \"NIFTY 50\", \"base_price\": 21500, \"volatility\": 0.02},\n            256521: {\"symbol\": \"BANK NIFTY\", \"base_price\": 46000, \"volatility\": 0.025},\n            131225348: {\"symbol\": \"RELIANCE\", \"base_price\": 2450, \"volatility\": 0.03},\n            131225604: {\"symbol\": \"TCS\", \"base_price\": 3200, \"volatility\": 0.025},\n            15498754: {\"symbol\": \"NIFTY25FEB21500CE\", \"base_price\": 120, \"volatility\": 0.15},\n            15498755: {\"symbol\": \"NIFTY25FEB21500PE\", \"base_price\": 85, \"volatility\": 0.15},\n            15498756: {\"symbol\": \"NIFTY25FEB22000CE\", \"base_price\": 45, \"volatility\": 0.20},",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "simulate_ticks",
+        "kind": 2,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "def simulate_ticks():\n    while True:\n        try:\n            with token_lock:\n                tokens = subscribed_tokens.copy()\n            ticks = []\n            for token in tokens:\n                tick = market_data.get_tick_data(token)\n                if tick:\n                    ticks.append(tick)",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "on_ticks",
+        "kind": 2,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "def on_ticks(ws, ticks):\n    for tick in ticks:\n        token = tick[\"instrument_token\"]\n        price = tick[\"last_price\"]\n        ts = tick[\"exchange_timestamp\"]\n        ts_str = ts.isoformat() if ts else str(time.time())\n        key = f\"tick:{token}\"\n        try:\n            r.hset(key, mapping={\"price\": price, \"timestamp\": ts_str})\n            r.expire(key, 300)",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "add_new_token",
+        "kind": 2,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "def add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:\n        if new_token not in subscribed_tokens:\n            subscribed_tokens.append(new_token)\n            if new_token not in market_data.instruments:\n                market_data.instruments[new_token] = {\n                    \"symbol\": f\"DUMMY_{new_token}\",\n                    \"base_price\": random.uniform(100, 1000),\n                    \"volatility\": random.uniform(0.01, 0.05)",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "api_register_tokens",
+        "kind": 2,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "def api_register_tokens():\n    data = request.get_json() or {}\n    tokens = data.get('tokens', [])\n    if not isinstance(tokens, list) or not all(isinstance(t, int) for t in tokens):\n        return jsonify({\"error\": \"tokens must be a list of ints\"}), 400\n    results = {\"subscribed\": [], \"skipped\": []}\n    for tok in tokens:\n        if add_new_token(tok):\n            results[\"subscribed\"].append(tok)\n        else:",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "api_add_token",
+        "kind": 2,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "def api_add_token():\n    data = request.get_json() or {}\n    if 'token' not in data:\n        return jsonify({\"error\": \"Token is required\"}), 400\n    try:\n        tok = int(data['token'])\n    except ValueError:\n        return jsonify({\"error\": \"Invalid token format\"}), 400\n    if add_new_token(tok):\n        return jsonify({\"message\": f\"Token {tok} added successfully!\"}), 200",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "api_status",
+        "kind": 2,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "def api_status():\n    with token_lock:\n        tokens = subscribed_tokens.copy()\n    return jsonify({\n        \"subscribed_tokens\": tokens,\n        \"current_prices\": market_data.current_prices,\n        \"instruments\": {t: market_data.instruments[t][\"symbol\"] for t in tokens},\n        \"redis_connected\": r.ping() if r else False\n    }), 200\ndef run_flask():",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "run_flask",
+        "kind": 2,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "def run_flask():\n    app.run(host=\"0.0.0.0\", port=5000, debug=False)\nif __name__ == \"__main__\":\n    print(\"🚀 Starting Dummy Ticker Service\")\n    print(\"=\" * 50)\n    print(\"Available instruments:\")\n    for tok, info in market_data.instruments.items():\n        print(f\"  {tok}: {info['symbol']} @ ₹{info['base_price']}\")\n    print(\"=\" * 50)\n    tick_thread = threading.Thread(target=simulate_ticks, daemon=True)",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Redis Configuration\nREDIS_HOST = '127.0.0.1'\nREDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\n# Test Redis connection\ntry:\n    if r.ping():\n        print(\"✅ Redis connection successful\")\n    else:",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_HOST",
+        "kind": 5,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "REDIS_HOST = '127.0.0.1'\nREDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\n# Test Redis connection\ntry:\n    if r.ping():\n        print(\"✅ Redis connection successful\")\n    else:\n        print(\"❌ Redis ping failed\")\nexcept Exception as e:",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_PORT",
+        "kind": 5,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "REDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\n# Test Redis connection\ntry:\n    if r.ping():\n        print(\"✅ Redis connection successful\")\n    else:\n        print(\"❌ Redis ping failed\")\nexcept Exception as e:\n    print(\"❌ Redis connection error:\", e)",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "r",
+        "kind": 5,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "r = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\n# Test Redis connection\ntry:\n    if r.ping():\n        print(\"✅ Redis connection successful\")\n    else:\n        print(\"❌ Redis ping failed\")\nexcept Exception as e:\n    print(\"❌ Redis connection error:\", e)\n# Flask app",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "app = Flask(__name__)\n# Global variables\nsubscribed_tokens = [256265, 131225348, 131225604]  # Default tokens\ntoken_lock = threading.Lock()\n# Dummy market data configuration\nclass DummyMarketData:\n    def __init__(self):\n        self.instruments = {\n            256265: {\"symbol\": \"NIFTY 50\", \"base_price\": 21500, \"volatility\": 0.02},\n            256521: {\"symbol\": \"BANK NIFTY\", \"base_price\": 46000, \"volatility\": 0.025},",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "subscribed_tokens",
+        "kind": 5,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "subscribed_tokens = [256265, 131225348, 131225604]  # Default tokens\ntoken_lock = threading.Lock()\n# Dummy market data configuration\nclass DummyMarketData:\n    def __init__(self):\n        self.instruments = {\n            256265: {\"symbol\": \"NIFTY 50\", \"base_price\": 21500, \"volatility\": 0.02},\n            256521: {\"symbol\": \"BANK NIFTY\", \"base_price\": 46000, \"volatility\": 0.025},\n            131225348: {\"symbol\": \"RELIANCE\", \"base_price\": 2450, \"volatility\": 0.03},\n            131225604: {\"symbol\": \"TCS\", \"base_price\": 3200, \"volatility\": 0.025},",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "token_lock",
+        "kind": 5,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "token_lock = threading.Lock()\n# Dummy market data configuration\nclass DummyMarketData:\n    def __init__(self):\n        self.instruments = {\n            256265: {\"symbol\": \"NIFTY 50\", \"base_price\": 21500, \"volatility\": 0.02},\n            256521: {\"symbol\": \"BANK NIFTY\", \"base_price\": 46000, \"volatility\": 0.025},\n            131225348: {\"symbol\": \"RELIANCE\", \"base_price\": 2450, \"volatility\": 0.03},\n            131225604: {\"symbol\": \"TCS\", \"base_price\": 3200, \"volatility\": 0.025},\n            15498754: {\"symbol\": \"NIFTY25FEB21500CE\", \"base_price\": 120, \"volatility\": 0.15},",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "market_data",
+        "kind": 5,
+        "importPath": "data_generate",
+        "description": "data_generate",
+        "peekOfCode": "market_data = DummyMarketData()\ndef simulate_ticks():\n    while True:\n        try:\n            with token_lock:\n                tokens = subscribed_tokens.copy()\n            ticks = []\n            for token in tokens:\n                tick = market_data.get_tick_data(token)\n                if tick:",
+        "detail": "data_generate",
+        "documentation": {}
+    },
+    {
+        "label": "get_instrument_id",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def get_instrument_id(symbol):\n    \"\"\"Retrieve the instrument token for a given trading symbol.\"\"\"\n    return data[data['tradingsymbol'] == symbol]['instrument_token'].iloc[0]\ninstrument_csv_path = INSTRUMENTS_CSV_PATH\ndata = pd.read_csv(instrument_csv_path)\nsubscribed_tokens = [256265,240641,3885825,2170625]  \ntoken_lock = threading.Lock()  \napp = Flask(__name__)\ndef on_ticks(ws, ticks):\n    for tick in ticks:",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "on_ticks",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def on_ticks(ws, ticks):\n    for tick in ticks:\n        token = tick[\"instrument_token\"]\n        key   = f\"tick:{token}\"\n        price = tick.get(\"last_price\")\n        ts    = tick.get(\"exchange_timestamp\")\n        ts_str = ts.isoformat() if ts else str(time.time())\n        try:\n            # 1) store the latest tick in a hash...\n            r.hset(key, mapping={",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "on_connect",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def on_connect(ws, response):\n    ws.subscribe(subscribed_tokens)\n    ws.set_mode(ws.MODE_FULL, subscribed_tokens)\ndef on_order_update(ws, data):\n    logging.debug(\"Order update : {}\".format(data))\ndef on_close(ws, code, reason):\n    logging.info(\"Connection closed: {code} - {reason}\".format(code=code, reason=reason))\n    ws.unsubscribe(subscribed_tokens)\ndef on_error(ws, code, reason):\n    logging.info(\"Connection error: {code} - {reason}\".format(code=code, reason=reason))",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "on_order_update",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def on_order_update(ws, data):\n    logging.debug(\"Order update : {}\".format(data))\ndef on_close(ws, code, reason):\n    logging.info(\"Connection closed: {code} - {reason}\".format(code=code, reason=reason))\n    ws.unsubscribe(subscribed_tokens)\ndef on_error(ws, code, reason):\n    logging.info(\"Connection error: {code} - {reason}\".format(code=code, reason=reason))\ndef on_reconnect(ws, attempts_count):\n    logging.info(\"Reconnecting: {}\".format(attempts_count))\ndef on_noreconnect(ws):",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "on_close",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def on_close(ws, code, reason):\n    logging.info(\"Connection closed: {code} - {reason}\".format(code=code, reason=reason))\n    ws.unsubscribe(subscribed_tokens)\ndef on_error(ws, code, reason):\n    logging.info(\"Connection error: {code} - {reason}\".format(code=code, reason=reason))\ndef on_reconnect(ws, attempts_count):\n    logging.info(\"Reconnecting: {}\".format(attempts_count))\ndef on_noreconnect(ws):\n    logging.info(\"Reconnect failed.\")\nkws.on_ticks = on_ticks",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "on_error",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def on_error(ws, code, reason):\n    logging.info(\"Connection error: {code} - {reason}\".format(code=code, reason=reason))\ndef on_reconnect(ws, attempts_count):\n    logging.info(\"Reconnecting: {}\".format(attempts_count))\ndef on_noreconnect(ws):\n    logging.info(\"Reconnect failed.\")\nkws.on_ticks = on_ticks\nkws.on_connect = on_connect\nkws.on_order_update = on_order_update\nkws.on_close = on_close",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "on_reconnect",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def on_reconnect(ws, attempts_count):\n    logging.info(\"Reconnecting: {}\".format(attempts_count))\ndef on_noreconnect(ws):\n    logging.info(\"Reconnect failed.\")\nkws.on_ticks = on_ticks\nkws.on_connect = on_connect\nkws.on_order_update = on_order_update\nkws.on_close = on_close\nkws.on_error = on_error\nkws.on_connect = on_connect",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "on_noreconnect",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def on_noreconnect(ws):\n    logging.info(\"Reconnect failed.\")\nkws.on_ticks = on_ticks\nkws.on_connect = on_connect\nkws.on_order_update = on_order_update\nkws.on_close = on_close\nkws.on_error = on_error\nkws.on_connect = on_connect\nkws.on_reconnect = on_reconnect\nkws.on_noreconnect = on_noreconnect",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "add_new_token",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:\n        if new_token not in subscribed_tokens:\n            subscribed_tokens.append(new_token)\n            logging.info(f\"Subscribing to new token: {new_token}\")\n            print(f\"Subscribing to new token: {new_token}\")\n            kws.subscribe([new_token])\n            kws.set_mode(kws.MODE_FULL, [new_token])\n            return True",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "api_register_ticks",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def api_register_ticks():\n    data = request.get_json() or {}\n    tokens = data.get('tokens', [])\n    if not isinstance(tokens, list) or not all(isinstance(t, int) for t in tokens):\n        return jsonify({\"error\": \"tokens must be a list of ints\"}), 400\n    results = {\"subscribed\": [], \"skipped\": []}\n    for tok in tokens:\n        if add_new_token(tok):\n            results[\"subscribed\"].append(tok)\n        else:",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "api_add_token",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def api_add_token():\n    \"\"\"API to add new token dynamically.\"\"\"\n    data = request.get_json()\n    if not data or 'token' not in data:\n        return jsonify({\"error\": \"Token is required\"}), 400\n    try:\n        new_token = int(data['token'])\n    except ValueError:\n        return jsonify({\"error\": \"Invalid token format. Must be an integer.\"}), 400\n    if add_new_token(new_token):",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "run_flask",
+        "kind": 2,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "def run_flask():\n    \"\"\"Runs Flask app.\"\"\"\n    app.run(host=\"0.0.0.0\", port=5000, debug=False)\nws_thread = threading.Thread(target=lambda: kws.connect(threaded=True), daemon=True)\nws_thread.start()\nflask_thread = threading.Thread(target=run_flask, daemon=True)\nflask_thread.start()\nwhile True:\n    time.sleep(1)\n# import time",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "logger = logging.getLogger(__name__)\napi_key = 'zuuxkho8imp70m8c'\n# print (access_token)\n# exit(0)\nkws = KiteTicker(api_key, access_token)\nkite = KiteConnect(api_key=api_key)\nkite.set_access_token(access_token)\nREDIS_HOST = '127.0.0.1'\nREDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "api_key",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "api_key = 'zuuxkho8imp70m8c'\n# print (access_token)\n# exit(0)\nkws = KiteTicker(api_key, access_token)\nkite = KiteConnect(api_key=api_key)\nkite.set_access_token(access_token)\nREDIS_HOST = '127.0.0.1'\nREDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\ntry:",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws = KiteTicker(api_key, access_token)\nkite = KiteConnect(api_key=api_key)\nkite.set_access_token(access_token)\nREDIS_HOST = '127.0.0.1'\nREDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\ntry:\n    # Test connection with ping\n    if r.ping():\n        print(\"✅ Redis connection successful\")",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kite",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kite = KiteConnect(api_key=api_key)\nkite.set_access_token(access_token)\nREDIS_HOST = '127.0.0.1'\nREDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\ntry:\n    # Test connection with ping\n    if r.ping():\n        print(\"✅ Redis connection successful\")\n    else:",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_HOST",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "REDIS_HOST = '127.0.0.1'\nREDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\ntry:\n    # Test connection with ping\n    if r.ping():\n        print(\"✅ Redis connection successful\")\n    else:\n        print(\"❌ Redis ping failed\")\nexcept Exception as e:",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_PORT",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "REDIS_PORT = 6379\nr = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\ntry:\n    # Test connection with ping\n    if r.ping():\n        print(\"✅ Redis connection successful\")\n    else:\n        print(\"❌ Redis ping failed\")\nexcept Exception as e:\n    print(\"❌ Redis connection error:\", e)",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "r",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "r = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\ntry:\n    # Test connection with ping\n    if r.ping():\n        print(\"✅ Redis connection successful\")\n    else:\n        print(\"❌ Redis ping failed\")\nexcept Exception as e:\n    print(\"❌ Redis connection error:\", e)\ndef get_instrument_id(symbol):",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "instrument_csv_path",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "instrument_csv_path = INSTRUMENTS_CSV_PATH\ndata = pd.read_csv(instrument_csv_path)\nsubscribed_tokens = [256265,240641,3885825,2170625]  \ntoken_lock = threading.Lock()  \napp = Flask(__name__)\ndef on_ticks(ws, ticks):\n    for tick in ticks:\n        token = tick[\"instrument_token\"]\n        key   = f\"tick:{token}\"\n        price = tick.get(\"last_price\")",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "data = pd.read_csv(instrument_csv_path)\nsubscribed_tokens = [256265,240641,3885825,2170625]  \ntoken_lock = threading.Lock()  \napp = Flask(__name__)\ndef on_ticks(ws, ticks):\n    for tick in ticks:\n        token = tick[\"instrument_token\"]\n        key   = f\"tick:{token}\"\n        price = tick.get(\"last_price\")\n        ts    = tick.get(\"exchange_timestamp\")",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "subscribed_tokens",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "subscribed_tokens = [256265,240641,3885825,2170625]  \ntoken_lock = threading.Lock()  \napp = Flask(__name__)\ndef on_ticks(ws, ticks):\n    for tick in ticks:\n        token = tick[\"instrument_token\"]\n        key   = f\"tick:{token}\"\n        price = tick.get(\"last_price\")\n        ts    = tick.get(\"exchange_timestamp\")\n        ts_str = ts.isoformat() if ts else str(time.time())",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "token_lock",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "token_lock = threading.Lock()  \napp = Flask(__name__)\ndef on_ticks(ws, ticks):\n    for tick in ticks:\n        token = tick[\"instrument_token\"]\n        key   = f\"tick:{token}\"\n        price = tick.get(\"last_price\")\n        ts    = tick.get(\"exchange_timestamp\")\n        ts_str = ts.isoformat() if ts else str(time.time())\n        try:",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "app = Flask(__name__)\ndef on_ticks(ws, ticks):\n    for tick in ticks:\n        token = tick[\"instrument_token\"]\n        key   = f\"tick:{token}\"\n        price = tick.get(\"last_price\")\n        ts    = tick.get(\"exchange_timestamp\")\n        ts_str = ts.isoformat() if ts else str(time.time())\n        try:\n            # 1) store the latest tick in a hash...",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws.on_ticks",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws.on_ticks = on_ticks\nkws.on_connect = on_connect\nkws.on_order_update = on_order_update\nkws.on_close = on_close\nkws.on_error = on_error\nkws.on_connect = on_connect\nkws.on_reconnect = on_reconnect\nkws.on_noreconnect = on_noreconnect\ndef add_new_token(new_token):\n    global subscribed_tokens",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws.on_connect",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws.on_connect = on_connect\nkws.on_order_update = on_order_update\nkws.on_close = on_close\nkws.on_error = on_error\nkws.on_connect = on_connect\nkws.on_reconnect = on_reconnect\nkws.on_noreconnect = on_noreconnect\ndef add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws.on_order_update",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws.on_order_update = on_order_update\nkws.on_close = on_close\nkws.on_error = on_error\nkws.on_connect = on_connect\nkws.on_reconnect = on_reconnect\nkws.on_noreconnect = on_noreconnect\ndef add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:\n        if new_token not in subscribed_tokens:",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws.on_close",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws.on_close = on_close\nkws.on_error = on_error\nkws.on_connect = on_connect\nkws.on_reconnect = on_reconnect\nkws.on_noreconnect = on_noreconnect\ndef add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:\n        if new_token not in subscribed_tokens:\n            subscribed_tokens.append(new_token)",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws.on_error",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws.on_error = on_error\nkws.on_connect = on_connect\nkws.on_reconnect = on_reconnect\nkws.on_noreconnect = on_noreconnect\ndef add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:\n        if new_token not in subscribed_tokens:\n            subscribed_tokens.append(new_token)\n            logging.info(f\"Subscribing to new token: {new_token}\")",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws.on_connect",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws.on_connect = on_connect\nkws.on_reconnect = on_reconnect\nkws.on_noreconnect = on_noreconnect\ndef add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:\n        if new_token not in subscribed_tokens:\n            subscribed_tokens.append(new_token)\n            logging.info(f\"Subscribing to new token: {new_token}\")\n            print(f\"Subscribing to new token: {new_token}\")",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws.on_reconnect",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws.on_reconnect = on_reconnect\nkws.on_noreconnect = on_noreconnect\ndef add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:\n        if new_token not in subscribed_tokens:\n            subscribed_tokens.append(new_token)\n            logging.info(f\"Subscribing to new token: {new_token}\")\n            print(f\"Subscribing to new token: {new_token}\")\n            kws.subscribe([new_token])",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "kws.on_noreconnect",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "kws.on_noreconnect = on_noreconnect\ndef add_new_token(new_token):\n    global subscribed_tokens\n    with token_lock:\n        if new_token not in subscribed_tokens:\n            subscribed_tokens.append(new_token)\n            logging.info(f\"Subscribing to new token: {new_token}\")\n            print(f\"Subscribing to new token: {new_token}\")\n            kws.subscribe([new_token])\n            kws.set_mode(kws.MODE_FULL, [new_token])",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "ws_thread",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "ws_thread = threading.Thread(target=lambda: kws.connect(threaded=True), daemon=True)\nws_thread.start()\nflask_thread = threading.Thread(target=run_flask, daemon=True)\nflask_thread.start()\nwhile True:\n    time.sleep(1)\n# import time\n# import threading\n# import json\n# import logging",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "flask_thread",
+        "kind": 5,
+        "importPath": "data_pulling_to_redis",
+        "description": "data_pulling_to_redis",
+        "peekOfCode": "flask_thread = threading.Thread(target=run_flask, daemon=True)\nflask_thread.start()\nwhile True:\n    time.sleep(1)\n# import time\n# import threading\n# import json\n# import logging\n# from datetime import datetime, timezone\n# import redis",
+        "detail": "data_pulling_to_redis",
+        "documentation": {}
+    },
+    {
+        "label": "delete_session_file",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def delete_session_file(php_sessid):\n    \"\"\" Deletes the session file associated with the captured PHPSESSID \"\"\"\n    session_file = os.path.join(SESSION_PATH, f\"sess_{php_sessid}\")\n    if os.path.exists(session_file):\n        os.remove(session_file)\n        print(f\"🗑️ Deleted session file: {session_file}\")\n    else:\n        print(f\"⚠️ Session file not found: {session_file}\")\n# 🔹 Headers to mimic a real browser\nheaders = {",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def login():\n    \"\"\" Logs in and updates the session with a new PHPSESSID if expired \"\"\"\n    global session  # Ensure we're modifying the existing session\n    print(\"🔄 Logging in...\")\n    login_response = session.post(LOGIN_URL, data=app_payload, headers=headers)\n    if login_response.status_code != 200:\n        print(\"❌ Login Failed! Server responded with:\", login_response.status_code)\n        exit()\n    # 🔹 Extract PHPSESSID\n    php_sessid = session.cookies.get(\"PHPSESSID\")",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "call_api",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def call_api(api_url, retry=True):\n    \"\"\" Function to make API requests using the active session. If expired, re-login and retry once. \"\"\"\n    response = session.get(api_url, headers=headers)\n    if response.status_code == 401:  # Unauthorized -> session expired\n        print(\"⚠️ Unauthorized! Session expired.\")\n        if retry:  # Retry login only once to avoid infinite loops\n            print(\"🔄 Re-logging in and retrying request...\")\n            login()\n            return call_api(api_url, retry=False)  # Retry only once\n        print(\"❌ Session expired and re-login failed. Exiting.\")",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "call_php_exit_db_api",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def call_php_exit_db_api(payload,retry=True):\n    \"\"\" Sends an API request using session authentication. \"\"\"\n    # 🔹 Secure Basic Authorization for API requests\n    # basic_auth_token = base64.b64encode(f\"{apache_username}:{apache_password}\".encode()).decode()\n    # 🔹 Headers (Dynamically generated)\n    # 🔹 Send request using session\n    response = session.post(STRATEGY_API_URL_EXIT, headers=headers, data=payload)\n    # live_scanner_id = response.json()\n    print (response.text)\n    # single_execute_method(f\"UPDATE `alerts_rows` SET `live_scanner_id` = `{int(live_scanner_id)}` WHERE `id` = {id};\")",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "clean_symbol",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def clean_symbol(symbol):\n    pattern = r\"^([A-Z0-9]+?)(\\d+)(CE|PE)$\"\n    match = re.match(pattern, symbol)\n    if match:\n        script = match.group(1)\n        strike_price = match.group(2)\n        option_type = match.group(3)\n        return script, strike_price, option_type\n    else:\n        return None, None, None",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_margin",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def calculate_margin(symbol, price, qty, trade_type):\n    \"\"\"Calculate margin for an options contract based on trade type.\"\"\"\n    if not symbol or not qty or not trade_type:\n        return {'error': 'Missing required fields'}\n    try:\n        qty_int = int(qty)\n    except ValueError:\n        return {'error': 'Quantity must be an integer'}\n    if trade_type == 'B':  # Buying requires upfront margin\n        if price is None:",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currunt_price",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def fetch_currunt_price(symbol: str) -> float:\n    \"\"\"\n    Fetch the latest last_price for the given symbol via Kite Connect.\n    Handles common index aliases automatically.\n    Returns None if the fetch fails or the symbol isn’t found.\n    \"\"\"\n    # 1) Normalize & map any special cases\n    alias_map = {\n        \"NIFTY\":     \"NIFTY 50\",\n        \"BANKNIFTY\": \"NIFTY BANK\",",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "create_exit_payload",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def create_exit_payload(trade_data, exit_prices, exit_lots, exit_date):\n    \"\"\"Generate payload for full exit, handling all strategies with complete field set.\"\"\"\n    if isinstance(trade_data, list):\n        if not trade_data:\n            raise ValueError(\"No trade data to exit\")\n        trade = trade_data[0]\n    elif isinstance(trade_data, dict):\n        trade = trade_data\n    else:\n        raise TypeError(\"trade_data must be a dict or non-empty list of dicts\")",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "exit_trade_fr_ls",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def exit_trade_fr_ls(trade_id, exit_prices, exit_lots, symbol,user_id):\n    \"\"\"Fetch trade details and exit both legs of the trade with different prices and lots, ensuring full removal.\"\"\"\n    # user_id = \"6107a84358676f862be226daae343418\"\n    # print (f\"SELECT * FROM live_strategies_evaluation WHERE user_id = '{user_id}' AND id = {int(trade_id)} ORDER BY id DESC\")\n    data = fetch_dataframe(f\"SELECT * FROM live_strategies_evaluation WHERE user_id = '{user_id}' AND id = {int(trade_id)} ORDER BY id DESC\")\n    # print (data['actual_profit_loss'])\n    trade_data = data.to_dict('records')\n    # print (trade_data)\n    if not trade_data:\n        print(\"Trade ID not found.\")",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "exit_in_live_scanner",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def exit_in_live_scanner(payload):\n    login()\n    # 🔹 Step 2: Call API with session sess_bbdd69otc2sat9eu2bnbt5nb9u\n    print(\"\\n📄 API Response for TEST_SESSION_URL:\")\n    print(call_api(TEST_SESSION_URL))\n    # print(strategy,data)\n    call_php_exit_db_api(payload)\n    time.sleep(1)\n    php_sessid = session.cookies.get(\"PHPSESSID\")\n    # print (php_sessid)",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "process_exit",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def process_exit(orders_data,user_key):\n    \"\"\"Processes exit conditions for grouped trades.\"\"\"\n    if not orders_data:\n        return None\n    trade_id = orders_data[0]['trade_id']\n    has_future = False\n    exit_prices = {}\n    exit_lots = {}\n    option_orders = []\n    for order in orders_data:",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "verify_trades_data",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def verify_trades_data(orders_data,user_key):\n    \"\"\"Groups orders, updates trade_id from DB, and processes exit conditions.\"\"\"\n    trade_groups = defaultdict(list)\n    for order in orders_data:\n        key = (order['trade_id'], order['tradingsymbol'])\n        trade_groups[key].append(order)\n    after_group_by = list(trade_groups.values())\n    for trade_group in after_group_by:\n        process_exit(trade_group,user_key)\ndef send_full_exit(instrument, scanner_id, exit_price, exit_quantity, user_id):",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "send_full_exit",
+        "kind": 2,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "def send_full_exit(instrument, scanner_id, exit_price, exit_quantity, user_id):\n    exit_date = datetime.now().strftime('%Y-%m-%d')\n    print(\"→\", instrument, scanner_id, exit_price, exit_quantity, exit_date, user_id)\n    # Get previous day's last NIFTY price\n    get_nifty_data_q = fetch_data(\"SELECT price FROM live_tick_nifty  ORDER BY time DESC LIMIT 1;\")\n    if not get_nifty_data_q:\n        print(\"❌ No NIFTY data found for previous day.\")\n        return\n    Nifty_on_Sell = str(get_nifty_data_q[0][0])\n    print(\"📊 Nifty on Sell:\", Nifty_on_Sell)",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "file_path = INSTRUMENTS_CSV_PATH\ninstrument_df = pd.read_csv(file_path)\n# ─── CONFIG ────────────────────────────────────────────────────────────────\nBASE_URL         = \"http://192.168.4.113/khopcha/\"\nLOGIN_URL        = BASE_URL + \"login_user.php\"\nEXIT_API_URL     = BASE_URL + \"final_update_exit_new_v1_6.php\"\nTEST_SESSION_URL = BASE_URL + \"testing_session.php\"\nSESSION_PATH     = r\"\\\\Velocity\\c\\wamp64\\tmp\"\nAPACHE_USER = \"khopcha\"\nAPACHE_PASS = \"qazqwe@123\"",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "instrument_df",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "instrument_df = pd.read_csv(file_path)\n# ─── CONFIG ────────────────────────────────────────────────────────────────\nBASE_URL         = \"http://192.168.4.113/khopcha/\"\nLOGIN_URL        = BASE_URL + \"login_user.php\"\nEXIT_API_URL     = BASE_URL + \"final_update_exit_new_v1_6.php\"\nTEST_SESSION_URL = BASE_URL + \"testing_session.php\"\nSESSION_PATH     = r\"\\\\Velocity\\c\\wamp64\\tmp\"\nAPACHE_USER = \"khopcha\"\nAPACHE_PASS = \"qazqwe@123\"\nHEADERS = {",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_SESSION_URL",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "TEST_SESSION_URL = BASE_URL + \"testing_session.php\"\nSESSION_PATH     = r\"\\\\Velocity\\c\\wamp64\\tmp\"\nAPACHE_USER = \"khopcha\"\nAPACHE_PASS = \"qazqwe@123\"\nHEADERS = {\n    \"User-Agent\":       \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\":          BASE_URL + \"login.php\",\n    \"Origin\":           BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",\n    \"Content-Type\":     \"application/x-www-form-urlencoded\"",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "APACHE_USER",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "APACHE_USER = \"khopcha\"\nAPACHE_PASS = \"qazqwe@123\"\nHEADERS = {\n    \"User-Agent\":       \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\":          BASE_URL + \"login.php\",\n    \"Origin\":           BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",\n    \"Content-Type\":     \"application/x-www-form-urlencoded\"\n}\n# maintain one session for cookies",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "APACHE_PASS",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "APACHE_PASS = \"qazqwe@123\"\nHEADERS = {\n    \"User-Agent\":       \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\":          BASE_URL + \"login.php\",\n    \"Origin\":           BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",\n    \"Content-Type\":     \"application/x-www-form-urlencoded\"\n}\n# maintain one session for cookies\nsession = requests.Session()",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "HEADERS",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "HEADERS = {\n    \"User-Agent\":       \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\":          BASE_URL + \"login.php\",\n    \"Origin\":           BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",\n    \"Content-Type\":     \"application/x-www-form-urlencoded\"\n}\n# maintain one session for cookies\nsession = requests.Session()\nsession.auth = (APACHE_USER, APACHE_PASS)",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "session = requests.Session()\nsession.auth = (APACHE_USER, APACHE_PASS)\napp_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"\n}\nfrom kiteconnect import KiteConnect\naccess_token_path = r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt'\naccess_token = open(access_token_path).read().strip()\nkite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "session.auth",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "session.auth = (APACHE_USER, APACHE_PASS)\napp_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"\n}\nfrom kiteconnect import KiteConnect\naccess_token_path = r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt'\naccess_token = open(access_token_path).read().strip()\nkite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# ─── SESSION HELPERS ───────────────────────────────────────────────────────",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "app_payload",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "app_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"\n}\nfrom kiteconnect import KiteConnect\naccess_token_path = r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt'\naccess_token = open(access_token_path).read().strip()\nkite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# ─── SESSION HELPERS ───────────────────────────────────────────────────────\ndef delete_session_file(php_sessid):",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "access_token_path",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "access_token_path = r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt'\naccess_token = open(access_token_path).read().strip()\nkite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# ─── SESSION HELPERS ───────────────────────────────────────────────────────\ndef delete_session_file(php_sessid):\n    \"\"\" Deletes the session file associated with the captured PHPSESSID \"\"\"\n    session_file = os.path.join(SESSION_PATH, f\"sess_{php_sessid}\")\n    if os.path.exists(session_file):\n        os.remove(session_file)\n        print(f\"🗑️ Deleted session file: {session_file}\")",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "access_token = open(access_token_path).read().strip()\nkite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# ─── SESSION HELPERS ───────────────────────────────────────────────────────\ndef delete_session_file(php_sessid):\n    \"\"\" Deletes the session file associated with the captured PHPSESSID \"\"\"\n    session_file = os.path.join(SESSION_PATH, f\"sess_{php_sessid}\")\n    if os.path.exists(session_file):\n        os.remove(session_file)\n        print(f\"🗑️ Deleted session file: {session_file}\")\n    else:",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "kite",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "kite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# ─── SESSION HELPERS ───────────────────────────────────────────────────────\ndef delete_session_file(php_sessid):\n    \"\"\" Deletes the session file associated with the captured PHPSESSID \"\"\"\n    session_file = os.path.join(SESSION_PATH, f\"sess_{php_sessid}\")\n    if os.path.exists(session_file):\n        os.remove(session_file)\n        print(f\"🗑️ Deleted session file: {session_file}\")\n    else:\n        print(f\"⚠️ Session file not found: {session_file}\")",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "exit_live_screener",
+        "description": "exit_live_screener",
+        "peekOfCode": "headers = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\": BASE_URL + \"login.php\",\n    \"Origin\": BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",\n    \"Content-Type\": \"application/x-www-form-urlencoded\"\n}\ndef login():\n    \"\"\" Logs in and updates the session with a new PHPSESSID if expired \"\"\"\n    global session  # Ensure we're modifying the existing session",
+        "detail": "exit_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data",
+        "kind": 2,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "def fetch_data(query):\n    \"\"\"this function returns the result data of a query | query parameter required\"\"\"\n    con = connect_db()\n    try:\n        cursor = con.cursor()\n        cursor.execute(query)\n        records = cursor.fetchall()\n        return records\n    except mysql.connector.Error as e:\n        print(\"Error reading data from MySQL table\", e)",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "connect_db",
+        "kind": 2,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "def connect_db():\n\t\"\"\" this function return the connection | host ,user,password and database this parameter required \"\"\"\n\tconnection = mysql.connector.connect(host=\"192.168.4.11\",user=\"alkalyme\",password=\"qazqwe@1234\",database=\"stock_db\")\n\treturn connection\n# print(connect_db())\ndef fetch_dataframe_from_speed(query): \n    \"\"\"this function returns the result data of a query in a dataframe | query parameter required\"\"\"                        \n    con = mysql.connector.connect(host=\"192.168.4.179\",user=\"access_point_bse\",password=\"Alk@506\",database=\"bse_stocks_db\") \n    try:                                                                                                                        \n        df = pd.read_sql(query, con)                                                                                            ",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_dataframe_from_speed",
+        "kind": 2,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "def fetch_dataframe_from_speed(query): \n    \"\"\"this function returns the result data of a query in a dataframe | query parameter required\"\"\"                        \n    con = mysql.connector.connect(host=\"192.168.4.179\",user=\"access_point_bse\",password=\"Alk@506\",database=\"bse_stocks_db\") \n    try:                                                                                                                        \n        df = pd.read_sql(query, con)                                                                                            \n        return df                                                                                                          \n    except mysql.connector.Error as e:                                                                                         \n        print(\"Error reading data from MySQL table\", e)                                                                     \n    finally:                                                                                                                    \n        if con.is_connected():                                                                                                      ",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_dataframe",
+        "kind": 2,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "def fetch_dataframe(query):\n    \"\"\"this function returns the result data of a query in a dataframe | query parameter required\"\"\"\n    con = connect_db()\n    try:\n        df = pd.read_sql(query, con)\n        return df\n    except mysql.connector.Error as e:\n        print(\"Error reading data from MySQL table\", e)\n    finally:\n        if con.is_connected():",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "query_execute_method",
+        "kind": 2,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "def query_execute_method(query_string, query_values):\n    con = connect_db()\n    try:\n        cursor = con.cursor()\n        cursor.execute(query_string, query_values)\n        con.commit()\n        print(\"✅ Data insert/update successful\")\n        return cursor.lastrowid\n    except Exception as e:\n        print(\"❌ Error executing query:\", e)",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "single_execute_method",
+        "kind": 2,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "def single_execute_method(quary_string):\n    con = connect_db()\n    try:\n        cursor = con.cursor()\n        cursor.execute(quary_string)\n        con.commit()\n        print(\"DATA INSERT AND UPDATE SUCCESSFULLY\")\n        return cursor.lastrowid\n    except Exception as e:\n        print(\"Error reading data from MySQL table\", e)",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "multiple_insert_data",
+        "kind": 2,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "def multiple_insert_data(sql, output_list):\n    con = connect_db()\n    try:\n        cursor = con.cursor()\n        cursor.executemany(sql, output_list)\n        con.commit()\n    except mysql.connector.Error as e:\n        print(\"ERROR IN INSERTING DATA IN DATABASE\", e)\n    finally:\n        if con.is_connected():",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "multiple_insert_in_db",
+        "kind": 2,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "def multiple_insert_in_db(sql, output_list):\n    con = connect_db()\n    try:\n        cursor = con.cursor()\n        cursor.executemany(sql, output_list)\n        con.commit()\n        print (\"DATA SUCCESSfully INSERTED\")\n    except mysql.connector.Error as e:\n        print(\"ERROR IN INSERTING DATA IN DATABASE\", e)\n    finally:",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "\tconnection",
+        "kind": 5,
+        "importPath": "global_connection",
+        "description": "global_connection",
+        "peekOfCode": "\tconnection = mysql.connector.connect(host=\"192.168.4.11\",user=\"alkalyme\",password=\"qazqwe@1234\",database=\"stock_db\")\n\treturn connection\n# print(connect_db())\ndef fetch_dataframe_from_speed(query): \n    \"\"\"this function returns the result data of a query in a dataframe | query parameter required\"\"\"                        \n    con = mysql.connector.connect(host=\"192.168.4.179\",user=\"access_point_bse\",password=\"Alk@506\",database=\"bse_stocks_db\") \n    try:                                                                                                                        \n        df = pd.read_sql(query, con)                                                                                            \n        return df                                                                                                          \n    except mysql.connector.Error as e:                                                                                         ",
+        "detail": "global_connection",
+        "documentation": {}
+    },
+    {
+        "label": "add_cors_headers",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def add_cors_headers(f):\n    @wraps(f)\n    def decorated_function(*args, **kwargs):\n        response = f(*args, **kwargs)\n        if hasattr(response, 'headers'):\n            response.headers['Access-Control-Allow-Origin'] = '*'\n            response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'\n            response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization'\n        return response\n    return decorated_function",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_lot_size_fn",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_lot_size_fn(token):\n    filtered_df = instrument_df[instrument_df['instrument_token'] == token]\n    if not filtered_df.empty:\n        return filtered_df.iloc[0]['lot_size']\n# Mock DB / user dictionary\n# users_db = {\n#     \"6107a84358676f862be226daae343418\": {\"username\": \"Hitesh\"},\n#     \"102\": {\"username\": \"Rahul\"},\n#     \"103\": {\"username\": \"Amit\"}\n# }",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "user_get",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def user_get():\n    try:\n        data = request.get_json()\n        user_id = data.get(\"user_id\")\n        if not user_id:\n            return jsonify({\"status\": \"error\", \"message\": \"user_id missing\"}), 400\n        # Run query\n        query = f\"\"\"SELECT username FROM user_details WHERE user_id = '{user_id}'\"\"\"\n        result = fetch_data(query)\n        if result and len(result) > 0:",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_instrument_token",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_instrument_token(symbol=None, expiry=None, strike=None, instrument_type=None):\n    \"\"\"\n    Lookup instrument_token & tradingsymbol from instrument_df for\n    CE/PE, FUT and EQ.  Will try both 'tradingsymbol' and a\n    'symbol' or 'name' column for equities.\n    \"\"\"\n    if not symbol or not instrument_type:\n        print(\"[Token Lookup Error] Missing symbol or instrument_type.\")\n        return None\n    # make sure our inputs are uppercase strings",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_tradingsymbol_from_csv",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_tradingsymbol_from_csv(\n    symbol: str,\n    expiry: Optional[str],\n    strike: Optional[float],\n    instrument_type: str\n) -> str:\n    \"\"\"\n    Lookup the Kite tradingsymbol from instrument_df based on:\n      - EQ:   symbol only\n      - FUT:  symbol + expiry",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_instrument_id",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_instrument_id(symbol):\n    df = instrument_df[instrument_df['tradingsymbol'] == symbol]\n    return df.iloc[0]['instrument_token']\n@app.route('/')\ndef index():\n    return jsonify({\n        'message': 'Advanced ATO Basket Builder API',\n        'version': '1.0.0',\n        'endpoints': {\n            'alerts': '/api/alerts',",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def index():\n    return jsonify({\n        'message': 'Advanced ATO Basket Builder API',\n        'version': '1.0.0',\n        'endpoints': {\n            'alerts': '/api/alerts',\n            'baskets': '/api/baskets',\n            'legs': '/api/legs',\n            'risk_settings': '/api/risk_settings'\n        },",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def health_check():\n    return jsonify({\n        'status': 'healthy',\n        'timestamp': datetime.now().isoformat(),\n        'database': 'connected'\n    })\n# ========================================\n# ALERTS ENDPOINTS\n# ========================================\n@app.route('/api/alerts', methods=['GET'])",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_alerts",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_alerts():\n    try:\n        # Always fetch directly from the URL (?userKey=...)\n        user_key = request.args.get('userKey')\n        if not user_key:\n            return jsonify({'error': 'userKey required in URL'}), 401\n        status = request.args.get('status')\n        symbol = request.args.get('symbol')\n        limit  = request.args.get('limit', type=int)\n        # Only alerts for this user",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "calculating_per_leg",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def calculating_per_leg(symbol, expiry, strike, instrument_type,action, quantity, price):\n    trading_symbol = get_tradingsymbol_from_csv(symbol, expiry, strike, instrument_type)\n    exchange = 'NFO' if instrument_type in ('CE','PE','FUT') else 'NSE'\n    if instrument_type in (\"EQ\", \"FUT\"):\n        return round(((price or 0) * quantity),2)\n    payload=[{\"exchange\":exchange,\"tradingsymbol\":trading_symbol,\"transaction_type\":\"BUY\" if action.upper().startswith(\"B\") else\"SELL\",\"variety\":kite.VARIETY_REGULAR,\n              \"product\":kite.PRODUCT_NRML,\"order_type\":kite.ORDER_TYPE_MARKET,\"quantity\":quantity,\"price\":price or 0,\"trigger_price\":0}]\n    margins = kite.order_margins(payload)\n    return margins[0].get(\"total\", 0.0)\n@app.route('/api/alerts', methods=['POST'])",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "create_alert",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def create_alert():\n    \"\"\"Create a new alert with baskets and legs – updated with proper margin & risk settings\"\"\"\n    try:\n        data = request.get_json()\n        required_fields = ['symbol', 'operator', 'threshold', 'valid_till', 'baskets']\n        for field in required_fields:\n            if field not in data:\n                return jsonify({'error': 'Missing required field', 'field': field}), 400\n        try:\n            valid_till = datetime.fromisoformat(data['valid_till'].replace('Z', '+00:00'))",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_alert",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_alert(alert_id):\n    \"\"\"Get a specific alert by ID\"\"\"\n    try:\n        alert = db.session.get(Alert, alert_id)\n        if not alert:\n            return jsonify({\n                'error': 'Alert not found',\n                'alert_id': alert_id\n            }), 404\n        return jsonify({",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "update_alert",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def update_alert(alert_id):\n    \"\"\"Update an existing alert\"\"\"\n    try:\n        alert = db.session.get(Alert, alert_id)\n        if not alert:\n            return jsonify({\n                'error': 'Alert not found',\n                'alert_id': alert_id\n            }), 404\n        data = request.get_json()",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "delete_alert",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def delete_alert(alert_id):\n    \"\"\"Delete an alert and all related data\"\"\"\n    try:\n        alert = db.session.get(Alert, alert_id)\n        if not alert:\n            return jsonify({\n                'error': 'Alert not found',\n                'alert_id': alert_id\n            }), 404\n        # Check if alert can be deleted (only waiting alerts)",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "has_hedge_leg",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def has_hedge_leg(basket):\n    for leg in basket.legs:\n        if leg.action == 'B' and ('CE' in leg.symbol or 'PE' in leg.symbol):\n            return True\n    return False\nIST = pytz.timezone(\"Asia/Kolkata\")\nPREOPEN_BLOCK_START = time(9, 8, 0)\nPREOPEN_BLOCK_END   = time(9, 15, 0)\nAMO_EQUITY_START    = time(15, 45, 0)\nAMO_EQUITY_END      = time(8, 59, 59)",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "now_ist",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def now_ist(): return datetime.now(IST)\ndef in_time_range(t, start, end): return start <= t <= end\ndef is_preopen_block():\n    d = now_ist()\n    if d.weekday() >= 5:  # Sat/Sun\n        return False\n    return in_time_range(d.time(), PREOPEN_BLOCK_START, PREOPEN_BLOCK_END)\ndef is_amo_window_equity():\n    t = now_ist().time()\n    return (t >= AMO_EQUITY_START) or (t <= AMO_EQUITY_END)",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "in_time_range",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def in_time_range(t, start, end): return start <= t <= end\ndef is_preopen_block():\n    d = now_ist()\n    if d.weekday() >= 5:  # Sat/Sun\n        return False\n    return in_time_range(d.time(), PREOPEN_BLOCK_START, PREOPEN_BLOCK_END)\ndef is_amo_window_equity():\n    t = now_ist().time()\n    return (t >= AMO_EQUITY_START) or (t <= AMO_EQUITY_END)\ndef is_fo_symbol(tradingsymbol: str) -> bool:",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "is_preopen_block",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def is_preopen_block():\n    d = now_ist()\n    if d.weekday() >= 5:  # Sat/Sun\n        return False\n    return in_time_range(d.time(), PREOPEN_BLOCK_START, PREOPEN_BLOCK_END)\ndef is_amo_window_equity():\n    t = now_ist().time()\n    return (t >= AMO_EQUITY_START) or (t <= AMO_EQUITY_END)\ndef is_fo_symbol(tradingsymbol: str) -> bool:\n    ts = tradingsymbol.upper()",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "is_amo_window_equity",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def is_amo_window_equity():\n    t = now_ist().time()\n    return (t >= AMO_EQUITY_START) or (t <= AMO_EQUITY_END)\ndef is_fo_symbol(tradingsymbol: str) -> bool:\n    ts = tradingsymbol.upper()\n    return ('FUT' in ts) or ts.endswith('CE') or ts.endswith('PE')\ndef detect_segment_and_product(tradingsymbol):\n    ts = tradingsymbol.upper()\n    if 'FUT' in ts or ts[-2:] in ['CE', 'PE']:\n        return 'NFO', 'NRML'",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "is_fo_symbol",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def is_fo_symbol(tradingsymbol: str) -> bool:\n    ts = tradingsymbol.upper()\n    return ('FUT' in ts) or ts.endswith('CE') or ts.endswith('PE')\ndef detect_segment_and_product(tradingsymbol):\n    ts = tradingsymbol.upper()\n    if 'FUT' in ts or ts[-2:] in ['CE', 'PE']:\n        return 'NFO', 'NRML'\n    return 'NSE', 'CNC'\ndef detect_segment_and_product(tradingsymbol):\n    tradingsymbol = tradingsymbol.upper()",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "detect_segment_and_product",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def detect_segment_and_product(tradingsymbol):\n    ts = tradingsymbol.upper()\n    if 'FUT' in ts or ts[-2:] in ['CE', 'PE']:\n        return 'NFO', 'NRML'\n    return 'NSE', 'CNC'\ndef detect_segment_and_product(tradingsymbol):\n    tradingsymbol = tradingsymbol.upper()\n    # Basic F&O pattern detection\n    if 'FUT' in tradingsymbol or tradingsymbol[-2:] in ['CE', 'PE']:\n        return 'NFO', 'NRML'  # F&O trades go to NFO and use NRML for swing",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "detect_segment_and_product",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def detect_segment_and_product(tradingsymbol):\n    tradingsymbol = tradingsymbol.upper()\n    # Basic F&O pattern detection\n    if 'FUT' in tradingsymbol or tradingsymbol[-2:] in ['CE', 'PE']:\n        return 'NFO', 'NRML'  # F&O trades go to NFO and use NRML for swing\n    else:\n        return 'NSE', 'CNC'   # Equity delivery trade\ndef place_order_safe(tradingsymbol, qty, price, action, order_type,\n                     enable_gtt_fallback=True, wait_for_open=True):\n    ts = tradingsymbol.upper()",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "place_order_safe",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def place_order_safe(tradingsymbol, qty, price, action, order_type,\n                     enable_gtt_fallback=True, wait_for_open=True):\n    ts = tradingsymbol.upper()\n    segment, product_type = detect_segment_and_product(ts)\n    # Choose variety\n    order_variety = KiteConnect.VARIETY_REGULAR\n    if not is_fo_symbol(ts) and is_amo_window_equity() and order_type.upper() in (\"LIMIT\", \"MARKET\"):\n        order_variety = KiteConnect.VARIETY_AMO\n    # Handle pre-open block\n    if is_preopen_block():",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "place_gtt_equivalent",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def place_gtt_equivalent(tradingsymbol, exchange, qty, limit_price, action, order_type):\n    \"\"\"\n    Create a SINGLE GTT trigger @ limit_price. When it fires, it places the same LIMIT/MARKET.\n    \"\"\"\n    try:\n        last_price = 0.0\n        try:\n            ltp_map = kite.ltp([f\"{exchange}:{tradingsymbol}\"])\n            last_price = float(ltp_map[f\"{exchange}:{tradingsymbol}\"][\"last_price\"])\n        except Exception:",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "trigger_alert_enhanced",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def trigger_alert_enhanced(alert_id):\n    \"\"\"Enhanced trigger with comprehensive error tracking and robust threading for scanner integration\"\"\"\n    execution_log = {\n        'alert_id': alert_id,\n        'timestamp': datetime.now().isoformat(),\n        'steps': [],\n        'errors': [],\n        'warnings': [],\n        'success': False\n    }",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "complete_alert",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def complete_alert(alert_id):\n    \"\"\"Mark an alert as completed\"\"\"\n    try:\n        alert = db.session.get(Alert, alert_id)\n        if not alert:\n            return jsonify({\n                'error': 'Alert not found',\n                'alert_id': alert_id\n            }), 404\n        data = request.get_json() or {}",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_baskets",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_baskets():\n    \"\"\"Get all baskets with optional filtering\"\"\"\n    try:\n        # Query parameters\n        alert_id = request.args.get('alert_id')\n        status = request.args.get('status')\n        strategy = request.args.get('strategy')\n        limit = request.args.get('limit', type=int)\n        query = Basket.query\n        # Apply filters",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "check_and_update_basket_alert_exit",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def check_and_update_basket_alert_exit(basket, alert, exit_reason):\n    \"\"\"Mark basket and alert as completed if all legs are exited.\"\"\"\n    try:\n        leg_statuses = [l.status for l in basket.legs] if basket and basket.legs else []\n        all_exited = all(l.status == 'exited' for l in basket.legs)\n        if all_exited:\n            basket.status      = 'exited'\n            basket.exited_at   = datetime.now()\n            basket.exit_reason = exit_reason\n            siblings = Basket.query.filter_by(alert_id=alert.id).all()",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "has_main_leg_for_exit",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def has_main_leg_for_exit(basket):\n    \"\"\"Return True if basket has any SELL CE/PE legs.\"\"\"\n    try:\n        if not basket or not basket.legs:\n            return False\n        for leg in basket.legs:\n            if leg.action == 'S' and ('CE' in leg.symbol or 'PE' in leg.symbol):\n                return True\n        return False\n    except Exception as e:",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "after_rollback",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def after_rollback(session):\n    print(\"Session rolled back!\")\ndef _compute_and_assign(leg, exit_qty, ptype, exit_reason):\n    \"\"\"\n    Safe exit executor for a single leg (EQ / CE-PE / FUT) using place_order_safe.\n    - Respects exit_qty passed by caller.\n    - Uses bid/ask/mid/ltp based on exit_price_type (ptype).\n    - Handles GTT fallback without computing PnL until it actually fills.\n    - Never reads filled_qty unless order succeeded.\n    \"\"\"",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "exit_basket_legs",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def exit_basket_legs(basket_id):\n    \"\"\"Partial, single, or full exit of all legs in a basket (idempotent & resilient).\"\"\"\n    import threading\n    from datetime import datetime\n    def run_in_thread(target, *args, **kwargs):\n        try:\n            t = threading.Thread(target=target, args=args, kwargs=kwargs)\n            t.daemon = True\n            t.start()\n        except Exception as e:",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "exit_basket",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def exit_basket(basket_id):\n    \"\"\"Exit a basket (close all positions)\"\"\"\n    try:\n        basket = Basket.query.get(basket_id)\n        if not basket:\n            return jsonify({\n                'error': 'Basket not found',\n                'basket_id': basket_id\n            }), 404\n        if basket.status != 'active':",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "not_found",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def not_found(error):\n    return jsonify({\n        'error': 'Resource not found',\n        'message': 'The requested endpoint does not exist'\n    }), 404\n@app.errorhandler(500)\ndef internal_error(error):\n    db.session.rollback()\n    return jsonify({\n        'error': 'Internal server error',",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "internal_error",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def internal_error(error):\n    db.session.rollback()\n    return jsonify({\n        'error': 'Internal server error',\n        'message': 'An unexpected error occurred'\n    }), 500\n@app.errorhandler(400)\ndef bad_request(error):\n    return jsonify({\n        'error': 'Bad request',",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "bad_request",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def bad_request(error):\n    return jsonify({\n        'error': 'Bad request',\n        'message': 'Invalid request data'\n    }), 400\n# Add these new endpoints to your existing Flask backend\n# ========================================\n# MARKET DATA ENDPOINTS\n# ========================================",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_banknifty_instruments",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_all_banknifty_instruments():\n    url = 'https://api.kite.trade/instruments'\n    csv_filename = 'instruments.csv'\n    response = requests.get(url)\n    if response.status_code == 200:\n        temp_filename = 'temp_instruments.csv'\n        with open(temp_filename, 'wb') as file:\n            file.write(response.content)\n        instrumentList = pd.read_csv(temp_filename)\n        filtered_instruments = instrumentList",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_price",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_price():\n    symbol = request.args.get(\"symbol\")\n    # print (symbol)\n    if symbol == \"NIFTY 50\":\n        symbol = \"NIFTY\"\n    if not symbol:\n        return jsonify({'error': 'Instrument not provided'}), 400\n    # primary_data = fetch_data(f\"select price from  live_tick_{symbol.lower()} order by time desc limit 1;\")\n    # if primary_data:\n    #     ltp = primary_data[0][0]",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "filter_instruments",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def filter_instruments(name=None, expiry=None, instrument_type=None, exchange=None):\n    mask = pd.Series(True, index=instrument_df.index)\n    # mapping of parameter → how to apply\n    for col, val in {\n        'name': name,\n        'expiry': expiry,\n        'instrument_type': instrument_type,\n        'exchange': exchange\n    }.items():\n        if val is None:",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_lot_size_only",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_lot_size_only():\n    \"\"\"Fetch lot size for all instruments\"\"\"\n    try:\n        lot_sizes = instrument_df[['tradingsymbol', 'lot_size']].drop_duplicates()\n        return lot_sizes.set_index('tradingsymbol')['lot_size'].to_dict()\n    except Exception as e:\n        print(f\"Error fetching lot sizes: {str(e)}\")\n        return {}\n@app.route('/api/get_lot_size', methods=['POST'])\ndef get_lot_size():",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_lot_size",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_lot_size():\n    data = request.get_json()\n    symbol = data.get('symbol', '')\n    instrument_type = data.get('instrument_type', '')\n    # Log incoming request for debugging\n    print(f\"Received lot size request for symbol: {symbol}, instrument type: {instrument_type}\")\n    # Filter your DataFrame\n    df = filter_instruments(name=symbol, instrument_type=instrument_type)\n    if df.empty:\n        return jsonify({'error': 'Symbol not found'}), 404",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_symbols",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_symbols():\n    try:\n        rename_map = {'NIFTY 50': 'NIFTY', 'NIFTY BANK': 'BANKNIFTY'}\n        allowed_exchanges = ['NFO', 'NSE']\n        # Filter out rows where 'name' is empty or null before other operations\n        filtered_df = (\n            instrument_df\n            .loc[instrument_df['name'].notnull() & (instrument_df['name'] != '')]\n            .loc[instrument_df['exchange'].isin(allowed_exchanges)]\n            .replace({'name': rename_map, 'tradingsymbol': rename_map})",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_expiries",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_expiries(symbol):\n    print(f\"Getting expiries for symbol: {symbol}\")\n    try:\n        # normalize certain names\n        sym_up = symbol.upper()\n        if sym_up in ['NIFTY 50', 'NIFTY']:\n            symbol = 'NIFTY'\n        elif sym_up in ['NIFTY BANK', 'BANKNIFTY']:\n            symbol = 'BANKNIFTY'\n        # pull instrument_type from querystring",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_option_chain_data",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def fetch_option_chain_data(symbol: str, expiry: str, instrument_type: str = 'CE') -> pd.DataFrame:\n    print(\"Fetching option chain:\", symbol, expiry, instrument_type)\n    getting_lot = filter_instruments(symbol, expiry,instrument_type)\n    # Convert expiry to required format: 'YYYY-MM-DD' -> 'DD-MMM-YYYY'\n    expiry_fmt = datetime.strptime(expiry, '%Y-%m-%d').strftime('%d-%b-%Y')\n    is_index = symbol.upper() in ['NIFTY', 'BANKNIFTY', 'FINNIFTY', 'MIDCPNIFTY']\n    home_url = 'https://www.nseindia.com/option-chain'\n    api_url = f'https://www.nseindia.com/api/option-chain-{\"indices\" if is_index else \"equities\"}?symbol={symbol.upper()}'\n    headers = {\n        'authority': 'www.nseindia.com',",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_option_chain",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_option_chain():\n    try:\n        # Parse input JSON\n        data = request.json\n        symbol = data.get('symbol')\n        expiry = data.get('expiry')\n        instrument_type = data.get('instrument_type', 'CE').upper()\n        if not symbol or not expiry:\n            return jsonify({\n                'status': 'error',",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_live_data",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def symbol_live_data():\n    data = request.get_json() or {}\n    symbol = data.get('instrument', '').upper()\n    if not symbol:\n        return jsonify({\"error\": \"No instrument provided\"}), 400 \n    # pick from our index map, or default to NSE:<symbol>\n    kite_key = INDEX_KEY_MAP.get(symbol, f\"NSE:{symbol}\")\n    try:   \n        ltp_data = kite.ltp([kite_key])\n        last_price = ltp_data[kite_key]['last_price']",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_live_data",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_live_data():\n    data = request.get_json() or {}\n    symbol = data.get('symbol')\n    expiry = data.get('expiry')\n    strike = data.get('strike')\n    instrument_type = data.get('instrument_type')\n    # 1) instrument_type must itself be present and valid\n    if instrument_type not in VALID_TYPES:\n        return jsonify({'error': 'instrument_type is missing or invalid'}), 400\n    # 2) build a list of required fields based on type",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "get_basket_margin",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def get_basket_margin():\n    data = request.get_json() or {}\n    legs = data.get('legs')\n    if not isinstance(legs, list) or not legs:\n        return jsonify({'error': 'Request must include a non-empty \"legs\" array'}), 400\n    eq_cal = []\n    order_payload = []\n    for leg in legs:\n        # print(legs)\n        action = leg.get('action') or ''",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "def home():\n    return render_template(\"index.html\")\n# ========================================\n# MAIN APPLICATION\n# ========================================\nif __name__ == '__main__':\n    # # Create tables on startup\n    # create_tables()\n    # # Initialize sample data (optional)\n    # # init_sample_data()",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "__author__",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "__author__ = 'hitesh.divekar'\napp = Flask(__name__, template_folder=TEMPLATE_FOLDER_PATH)\napp.config['SQLALCHEMY_DATABASE_URI'] = SQLITE_DB_PATH\nCORS(app, origins=\"*\")  # Allow all origins (dev only)\nimport random\nimport pandas as pd\nfrom global_connection import fetch_data\nimport requests\nfile_path = INSTRUMENTS_CSV_PATH\ninstrument_df = pd.read_csv(file_path)",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "app = Flask(__name__, template_folder=TEMPLATE_FOLDER_PATH)\napp.config['SQLALCHEMY_DATABASE_URI'] = SQLITE_DB_PATH\nCORS(app, origins=\"*\")  # Allow all origins (dev only)\nimport random\nimport pandas as pd\nfrom global_connection import fetch_data\nimport requests\nfile_path = INSTRUMENTS_CSV_PATH\ninstrument_df = pd.read_csv(file_path)\n# access_token = open(ACCESS_TOKEN_PATH).read()",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = SQLITE_DB_PATH\nCORS(app, origins=\"*\")  # Allow all origins (dev only)\nimport random\nimport pandas as pd\nfrom global_connection import fetch_data\nimport requests\nfile_path = INSTRUMENTS_CSV_PATH\ninstrument_df = pd.read_csv(file_path)\n# access_token = open(ACCESS_TOKEN_PATH).read()\nfrom kiteconnect import KiteConnect, KiteTicker",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "file_path = INSTRUMENTS_CSV_PATH\ninstrument_df = pd.read_csv(file_path)\n# access_token = open(ACCESS_TOKEN_PATH).read()\nfrom kiteconnect import KiteConnect, KiteTicker\naccess_token = open(r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt').read()\nkite = KiteConnect(api_key='zuuxkho8imp70m8c', access_token=access_token)\nfrom sqlalchemy import event\nfrom send_email import generate_and_send_email,generate_and_send_execution_email,generate_and_send_exit_email, send_gtt_created_email,send_order_success_email\nfrom websocket_server import track_alert_task\n# ========================================",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "instrument_df",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "instrument_df = pd.read_csv(file_path)\n# access_token = open(ACCESS_TOKEN_PATH).read()\nfrom kiteconnect import KiteConnect, KiteTicker\naccess_token = open(r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt').read()\nkite = KiteConnect(api_key='zuuxkho8imp70m8c', access_token=access_token)\nfrom sqlalchemy import event\nfrom send_email import generate_and_send_email,generate_and_send_execution_email,generate_and_send_exit_email, send_gtt_created_email,send_order_success_email\nfrom websocket_server import track_alert_task\n# ========================================\n# ALERTS ENDPOINTS",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "access_token = open(r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt').read()\nkite = KiteConnect(api_key='zuuxkho8imp70m8c', access_token=access_token)\nfrom sqlalchemy import event\nfrom send_email import generate_and_send_email,generate_and_send_execution_email,generate_and_send_exit_email, send_gtt_created_email,send_order_success_email\nfrom websocket_server import track_alert_task\n# ========================================\n# ALERTS ENDPOINTS\n# ========================================\n# Indian timezone setup\nIST = pytz.timezone('Asia/Kolkata')",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "kite",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "kite = KiteConnect(api_key='zuuxkho8imp70m8c', access_token=access_token)\nfrom sqlalchemy import event\nfrom send_email import generate_and_send_email,generate_and_send_execution_email,generate_and_send_exit_email, send_gtt_created_email,send_order_success_email\nfrom websocket_server import track_alert_task\n# ========================================\n# ALERTS ENDPOINTS\n# ========================================\n# Indian timezone setup\nIST = pytz.timezone('Asia/Kolkata')\nfrom models_db import db , Alert, Basket, Leg, RiskSetting",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "IST",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "IST = pytz.timezone('Asia/Kolkata')\nfrom models_db import db , Alert, Basket, Leg, RiskSetting\n# Configuration\napp.config['SECRET_KEY'] = 'your-secret-key-here-change-in-production'\napp.config['SQLALCHEMY_DATABASE_URI'] = SQLITE_DB_PATH\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\napp.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = False\ndb.init_app(app)\nfrom functools import wraps\ndef add_cors_headers(f):",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "app.config['SECRET_KEY'] = 'your-secret-key-here-change-in-production'\napp.config['SQLALCHEMY_DATABASE_URI'] = SQLITE_DB_PATH\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\napp.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = False\ndb.init_app(app)\nfrom functools import wraps\ndef add_cors_headers(f):\n    @wraps(f)\n    def decorated_function(*args, **kwargs):\n        response = f(*args, **kwargs)",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = SQLITE_DB_PATH\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\napp.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = False\ndb.init_app(app)\nfrom functools import wraps\ndef add_cors_headers(f):\n    @wraps(f)\n    def decorated_function(*args, **kwargs):\n        response = f(*args, **kwargs)\n        if hasattr(response, 'headers'):",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\napp.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = False\ndb.init_app(app)\nfrom functools import wraps\ndef add_cors_headers(f):\n    @wraps(f)\n    def decorated_function(*args, **kwargs):\n        response = f(*args, **kwargs)\n        if hasattr(response, 'headers'):\n            response.headers['Access-Control-Allow-Origin'] = '*'",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_COMMIT_ON_TEARDOWN']",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "app.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = False\ndb.init_app(app)\nfrom functools import wraps\ndef add_cors_headers(f):\n    @wraps(f)\n    def decorated_function(*args, **kwargs):\n        response = f(*args, **kwargs)\n        if hasattr(response, 'headers'):\n            response.headers['Access-Control-Allow-Origin'] = '*'\n            response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "IST",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "IST = pytz.timezone(\"Asia/Kolkata\")\nPREOPEN_BLOCK_START = time(9, 8, 0)\nPREOPEN_BLOCK_END   = time(9, 15, 0)\nAMO_EQUITY_START    = time(15, 45, 0)\nAMO_EQUITY_END      = time(8, 59, 59)\ndef now_ist(): return datetime.now(IST)\ndef in_time_range(t, start, end): return start <= t <= end\ndef is_preopen_block():\n    d = now_ist()\n    if d.weekday() >= 5:  # Sat/Sun",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "PREOPEN_BLOCK_START",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "PREOPEN_BLOCK_START = time(9, 8, 0)\nPREOPEN_BLOCK_END   = time(9, 15, 0)\nAMO_EQUITY_START    = time(15, 45, 0)\nAMO_EQUITY_END      = time(8, 59, 59)\ndef now_ist(): return datetime.now(IST)\ndef in_time_range(t, start, end): return start <= t <= end\ndef is_preopen_block():\n    d = now_ist()\n    if d.weekday() >= 5:  # Sat/Sun\n        return False",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "INDEX_KEY_MAP",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "INDEX_KEY_MAP = {\n    \"NIFTY\":     \"NSE:NIFTY 50\",\n    \"BANKNIFTY\": \"NSE:NIFTY BANK\"\n}\n@app.route('/api/symbol-live-data', methods=['POST'])\ndef symbol_live_data():\n    data = request.get_json() or {}\n    symbol = data.get('instrument', '').upper()\n    if not symbol:\n        return jsonify({\"error\": \"No instrument provided\"}), 400 ",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "VALID_TYPES",
+        "kind": 5,
+        "importPath": "main_app",
+        "description": "main_app",
+        "peekOfCode": "VALID_TYPES = {'EQ', 'FUT', 'CE', 'PE'}\n@app.route('/api/get-live-data', methods=['POST'])\ndef get_live_data():\n    data = request.get_json() or {}\n    symbol = data.get('symbol')\n    expiry = data.get('expiry')\n    strike = data.get('strike')\n    instrument_type = data.get('instrument_type')\n    # 1) instrument_type must itself be present and valid\n    if instrument_type not in VALID_TYPES:",
+        "detail": "main_app",
+        "documentation": {}
+    },
+    {
+        "label": "Alert",
+        "kind": 6,
+        "importPath": "models_db",
+        "description": "models_db",
+        "peekOfCode": "class Alert(db.Model):\n    \"\"\"Alert model for triggering automated trades\"\"\"\n    __tablename__ = 'alerts'\n    id = db.Column(db.String(50), primary_key=True)\n    symbol = db.Column(db.String(20), nullable=False)  # NIFTY, BANKNIFTY, etc.\n    operator = db.Column(db.String(5), nullable=False)  # >, <, >=, <=, ==\n    threshold = db.Column(db.Float, nullable=False)\n    valid_till = db.Column(db.DateTime, nullable=False)\n    status = db.Column(db.String(20), default='waiting')  # waiting, triggered, completed, cancelled\n    created_at = db.Column(db.DateTime, default=lambda: datetime.now())",
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "Basket",
+        "kind": 6,
+        "importPath": "models_db",
+        "description": "models_db",
+        "peekOfCode": "class Basket(db.Model):\n    \"\"\"Basket model for grouping trading legs\"\"\"\n    __tablename__ = 'baskets'\n    id = db.Column(db.Integer, primary_key=True)\n    alert_id = db.Column(db.String(50), db.ForeignKey('alerts.id'), nullable=False)\n    label = db.Column(db.String(100), nullable=False)\n    strategy = db.Column(db.String(50), nullable=True)  # long_call, iron_condor, etc.\n    risk_mode = db.Column(db.String(20), default='individual')  # individual, basket, underlying, etc.\n    margin_required = db.Column(db.Float, default=0.0)\n    status = db.Column(db.String(20), default='active')  # active, exited",
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "Leg",
+        "kind": 6,
+        "importPath": "models_db",
+        "description": "models_db",
+        "peekOfCode": "class Leg(db.Model):\n    \"\"\"Leg model for individual trading positions\"\"\"\n    __tablename__ = 'legs'\n    id = db.Column(db.Integer, primary_key=True)\n    basket_id = db.Column(db.Integer, db.ForeignKey('baskets.id'), nullable=False)\n    action = db.Column(db.String(5), nullable=False)  # B (Buy), S (Sell)\n    instrument_type = db.Column(db.String(10), nullable=False)  # CE, PE, FUT, EQ\n    symbol = db.Column(db.String(20), nullable=False)\n    strike = db.Column(db.Float, nullable=True)  # For options\n    expiry = db.Column(db.DateTime, nullable=True)  # For options/futures",
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "RiskSetting",
+        "kind": 6,
+        "importPath": "models_db",
+        "description": "models_db",
+        "peekOfCode": "class RiskSetting(db.Model):\n    \"\"\"Risk management settings for baskets\"\"\"\n    __tablename__ = 'risk_settings'\n    id = db.Column(db.Integer, primary_key=True)\n    basket_id = db.Column(db.Integer, db.ForeignKey('baskets.id'), nullable=False)\n    risk_type = db.Column(db.String(20), nullable=False)  # basket, underlying, drawdown, trailing, advanced\n    option_type = db.Column(db.String(50), nullable=False)  # net_pnl_tp_sl, price_based, etc.\n    settings_json = db.Column(db.Text, nullable=True)  # JSON string of settings\n    is_active = db.Column(db.Boolean, default=True)\n    created_at = db.Column(db.DateTime, default=datetime.now())",
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "models_db",
+        "description": "models_db",
+        "peekOfCode": "db = SQLAlchemy(session_options={'autoflush': False})\n# ========================================\n# DATABASE MODELS\n# ========================================\nclass Alert(db.Model):\n    \"\"\"Alert model for triggering automated trades\"\"\"\n    __tablename__ = 'alerts'\n    id = db.Column(db.String(50), primary_key=True)\n    symbol = db.Column(db.String(20), nullable=False)  # NIFTY, BANKNIFTY, etc.\n    operator = db.Column(db.String(5), nullable=False)  # >, <, >=, <=, ==",
+        "detail": "models_db",
+        "documentation": {}
+    },
+    {
+        "label": "insert_eq_scanner_entries",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def insert_eq_scanner_entries(eq_orders_data):\n    currundate = datetime.now().date()\n    entry = \"entry\"\n    nifty_on_buy = fetch_data(\"SELECT price FROM live_tick_nifty ORDER BY time DESC LIMIT 1;\")[0][0]\n    instrument = eq_orders_data[0]\n    qty = eq_orders_data[1]\n    price = eq_orders_data[2]\n    target = ''\n    stop_loss = ''\n    user_id = eq_orders_data[3]",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "delete_session_file",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def delete_session_file(php_sessid):\n    \"\"\" Deletes the session file associated with the captured PHPSESSID \"\"\"\n    session_file = os.path.join(session_path, f\"sess_{php_sessid}\")\n    if os.path.exists(session_file):\n        os.remove(session_file)\n        print(f\"🗑️ Deleted session file: {session_file}\")\n    else:\n        print(f\"⚠️ Session file not found: {session_file}\")\n# 🔹 Headers to mimic a real browser\nheaders = {",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def login():\n    \"\"\" Logs in and updates the session with a new PHPSESSID if expired \"\"\"\n    global session  # Ensure we're modifying the existing session\n    print(\"🔄 Logging in...\")\n    login_response = session.post(LOGIN_URL, data=app_payload, headers=headers)\n    if login_response.status_code != 200:\n        print(\"❌ Login Failed! Server responded with:\", login_response.status_code)\n        exit()\n    # 🔹 Extract PHPSESSID\n    php_sessid = session.cookies.get(\"PHPSESSID\")",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "call_api",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def call_api(api_url, retry=True):\n    \"\"\" Function to make API requests using the active session. If expired, re-login and retry once. \"\"\"\n    response = session.get(api_url, headers=headers)\n    if response.status_code == 401:  # Unauthorized -> session expired\n        print(\"⚠️ Unauthorized! Session expired.\")\n        if retry:  # Retry login only once to avoid infinite loops\n            print(\"🔄 Re-logging in and retrying request...\")\n            login()\n            return call_api(api_url, retry=False)  # Retry only once\n        print(\"❌ Session expired and re-login failed. Exiting.\")",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "call_php_exit_db_api",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def call_php_exit_db_api(payload,retry=True):\n    \"\"\" Sends an API request using session authentication. \"\"\"\n    # 🔹 Secure Basic Authorization for API requests\n    # basic_auth_token = base64.b64encode(f\"{apache_username}:{apache_password}\".encode()).decode()\n    # 🔹 Headers (Dynamically generated)\n    # 🔹 Send request using session\n    response = session.post(STRATEGY_API_URL_EXIT, headers=headers, data=payload)\n    # live_scanner_id = response.json()\n    print (response.text)\n    # single_execute_method(f\"UPDATE `alerts_rows` SET `live_scanner_id` = `{int(live_scanner_id)}` WHERE `id` = {id};\")",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "call_php_insert_db_api",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def call_php_insert_db_api(id,payload,retry=True):\n    \"\"\" Sends an API request using session authentication. \"\"\"\n    # 🔹 Secure Basic Authorization for API requests\n    # basic_auth_token = base64.b64encode(f\"{apache_username}:{apache_password}\".encode()).decode()\n    # 🔹 Headers (Dynamically generated)\n    instruments_in  = tuple(payload['instruments'])\n    if len(instruments_in) == 1:\n        instruments_in = f\"('{instruments_in[0]}')\"\n    else:\n        instruments_in = instruments_in",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "generate_strategy_payload",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def generate_strategy_payload(id,strategy_name, data,user_id):\n    \"\"\" Generates the correct payload dynamically for each strategy \"\"\"\n    # Extract expiry date from the first leg dynamically\n    expiry_date = data[0].get(\"expiry\")\n    payload = {\n        \"user_id\": user_id,\n        \"underlying\": data[0].get(\"name\"),\n        \"account_name\": \"python_api\",\n        \"entry_date\": datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"),\n        \"underlying_cmp\": data[0].get(\"price\", 0),",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "enter_in_live_scanner",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def enter_in_live_scanner(id,strategy,data,user_id):\n    login()\n    # 🔹 Step 2: Call API with session sess_bbdd69otc2sat9eu2bnbt5nb9u\n    print(\"\\n📄 API Response for TEST_SESSION_URL:\")\n    print(call_api(TEST_SESSION_URL))\n    print(strategy,data)\n    generate_strategy_payload(id,strategy,data,user_id)\n    time.sleep(1)\n    php_sessid = session.cookies.get(\"PHPSESSID\")\n    # print (php_sessid)",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "exit_in_live_scanner",
+        "kind": 2,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "def exit_in_live_scanner(payload):\n    login()\n    # 🔹 Step 2: Call API with session sess_bbdd69otc2sat9eu2bnbt5nb9u\n    print(\"\\n📄 API Response for TEST_SESSION_URL:\")\n    print(call_api(TEST_SESSION_URL))\n    # print(strategy,data)\n    call_php_exit_db_api(payload)\n    time.sleep(1)\n    php_sessid = session.cookies.get(\"PHPSESSID\")\n    # print (php_sessid)",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "BASE_URL = \"http://192.168.4.113/khopcha/\"\nLOGIN_URL = BASE_URL + \"login_user.php\"   # Login API\n# STRATEGY_API_URL = BASE_URL + \"add_strategy_to_db_server_v1_6.php\"  # Strategy API\nSTRATEGY_API_URL = BASE_URL + \"testing_insert_script.php\"\nSTRATEGY_API_URL_EXIT = BASE_URL + \"final_update_exit_new_v1_6.php\"\nTEST_SESSION_URL = BASE_URL + \"testing_session.php\"  # Session verification API\n# 🔹 Apache Credentials (if required)\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\n# 🔹 User Login Credentials",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "LOGIN_URL = BASE_URL + \"login_user.php\"   # Login API\n# STRATEGY_API_URL = BASE_URL + \"add_strategy_to_db_server_v1_6.php\"  # Strategy API\nSTRATEGY_API_URL = BASE_URL + \"testing_insert_script.php\"\nSTRATEGY_API_URL_EXIT = BASE_URL + \"final_update_exit_new_v1_6.php\"\nTEST_SESSION_URL = BASE_URL + \"testing_session.php\"  # Session verification API\n# 🔹 Apache Credentials (if required)\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\n# 🔹 User Login Credentials\napp_payload = {",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "STRATEGY_API_URL",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "STRATEGY_API_URL = BASE_URL + \"testing_insert_script.php\"\nSTRATEGY_API_URL_EXIT = BASE_URL + \"final_update_exit_new_v1_6.php\"\nTEST_SESSION_URL = BASE_URL + \"testing_session.php\"  # Session verification API\n# 🔹 Apache Credentials (if required)\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\n# 🔹 User Login Credentials\napp_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "STRATEGY_API_URL_EXIT",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "STRATEGY_API_URL_EXIT = BASE_URL + \"final_update_exit_new_v1_6.php\"\nTEST_SESSION_URL = BASE_URL + \"testing_session.php\"  # Session verification API\n# 🔹 Apache Credentials (if required)\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\n# 🔹 User Login Credentials\napp_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"\n}",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_SESSION_URL",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "TEST_SESSION_URL = BASE_URL + \"testing_session.php\"  # Session verification API\n# 🔹 Apache Credentials (if required)\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\n# 🔹 User Login Credentials\napp_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"\n}\n'''",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "apache_username",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "apache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\n# 🔹 User Login Credentials\napp_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"\n}\n'''\ndef insert_eq_scanner_entries(eq_orders_data):\n    currundate = datetime.now().date()",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "apache_password",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "apache_password = \"qazqwe@123\"\n# 🔹 User Login Credentials\napp_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"\n}\n'''\ndef insert_eq_scanner_entries(eq_orders_data):\n    currundate = datetime.now().date()\n    entry = \"entry\"",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "app_payload",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "app_payload = {\n    \"username\": \"ALK-CNH\",  \n    \"password\": \"convonix\"\n}\n'''\ndef insert_eq_scanner_entries(eq_orders_data):\n    currundate = datetime.now().date()\n    entry = \"entry\"\n    nifty_on_buy = fetch_data(\"SELECT price FROM live_tick_nifty ORDER BY time DESC LIMIT 1;\")[0][0]\n    instrument = eq_orders_data[0]",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "session_path",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "session_path = r\"\\\\Velocity\\c\\wamp64\\tmp\"\ndef delete_session_file(php_sessid):\n    \"\"\" Deletes the session file associated with the captured PHPSESSID \"\"\"\n    session_file = os.path.join(session_path, f\"sess_{php_sessid}\")\n    if os.path.exists(session_file):\n        os.remove(session_file)\n        print(f\"🗑️ Deleted session file: {session_file}\")\n    else:\n        print(f\"⚠️ Session file not found: {session_file}\")\n# 🔹 Headers to mimic a real browser",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "headers = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\": BASE_URL + \"login.php\",\n    \"Origin\": BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",\n    \"Content-Type\": \"application/x-www-form-urlencoded\"\n}\n# 🔹 Start a session to maintain cookies\nsession = requests.Session()\nsession.auth = HTTPBasicAuth(apache_username, apache_password)",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "session = requests.Session()\nsession.auth = HTTPBasicAuth(apache_username, apache_password)\ndef login():\n    \"\"\" Logs in and updates the session with a new PHPSESSID if expired \"\"\"\n    global session  # Ensure we're modifying the existing session\n    print(\"🔄 Logging in...\")\n    login_response = session.post(LOGIN_URL, data=app_payload, headers=headers)\n    if login_response.status_code != 200:\n        print(\"❌ Login Failed! Server responded with:\", login_response.status_code)\n        exit()",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "session.auth",
+        "kind": 5,
+        "importPath": "php_session_handle",
+        "description": "php_session_handle",
+        "peekOfCode": "session.auth = HTTPBasicAuth(apache_username, apache_password)\ndef login():\n    \"\"\" Logs in and updates the session with a new PHPSESSID if expired \"\"\"\n    global session  # Ensure we're modifying the existing session\n    print(\"🔄 Logging in...\")\n    login_response = session.post(LOGIN_URL, data=app_payload, headers=headers)\n    if login_response.status_code != 200:\n        print(\"❌ Login Failed! Server responded with:\", login_response.status_code)\n        exit()\n    # 🔹 Extract PHPSESSID",
+        "detail": "php_session_handle",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "send_email",
+        "description": "send_email",
+        "peekOfCode": "def send_email(subject: str, body: str, to: str = None, cc: str = None):\n    \"\"\"\n    Improved send_email function with better security and error handling\n    \"\"\"\n    try:\n        # Use environment variables for security\n        email_user = EMAIL_USER\n        email_password =EMAIL_PASSWORD\n        smtp_server = SMTP_SERVER\n        smtp_port = SMTP_PORT",
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "generate_and_send_email",
+        "kind": 2,
+        "importPath": "send_email",
+        "description": "send_email",
+        "peekOfCode": "def generate_and_send_email(alert, baskets_data):\n    \"\"\"\n    Send notification when a new alert is created - unchanged logic\n    \"\"\"\n    lines = []\n    lines.append(f\"✅ Alert Created Successfully\")\n    lines.append(f\"Symbol: {alert.symbol}\")\n    lines.append(f\"Condition: {alert.symbol} {alert.operator} {alert.threshold}\")\n    lines.append(f\"Valid Till: {alert.valid_till.strftime('%d-%m-%Y %H:%M')}\")\n    lines.append(f\"Total Margin: ₹{int(alert.total_margin_required):,}\\n\")",
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "generate_and_send_execution_email",
+        "kind": 2,
+        "importPath": "send_email",
+        "description": "send_email",
+        "peekOfCode": "def generate_and_send_execution_email(alert):\n    \"\"\"\n    FIXED: Send notification when alert is triggered - now checks actual leg status\n    \"\"\"\n    lines = [\n        f\"📣 Alert Triggered: {alert.symbol}\",\n        f\"Condition: {alert.symbol} {alert.operator} {alert.threshold}\",\n        f\"Triggered At: {alert.triggered_at.strftime('%d-%m-%Y %H:%M:%S')}\\n\"\n    ]\n    # Track execution status",
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "generate_and_send_exit_email",
+        "kind": 2,
+        "importPath": "send_email",
+        "description": "send_email",
+        "peekOfCode": "def generate_and_send_exit_email(alert, basket, exit_type):\n    \"\"\"\n    Send notification when basket is exited - with improved error handling\n    \"\"\"\n    try:\n        lines = []\n        lines.append(f\"🔴 Basket Exit Notification\")\n        lines.append(f\"Symbol: {alert.symbol}\")\n        lines.append(f\"Condition: {alert.symbol} {alert.operator} {alert.threshold}\")\n        lines.append(f\"Exit Type: {exit_type}\")",
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "send_order_success_email",
+        "kind": 2,
+        "importPath": "send_email",
+        "description": "send_email",
+        "peekOfCode": "def send_order_success_email(tradingsymbol, qty, price, action, order_type,\n                             order_id, filled_qty, executed_price):\n    \"\"\"\n    Send notification when order is successfully placed - improved formatting\n    \"\"\"\n    subject = \"✅ Order Successfully Placed\"\n    # Improved action formatting\n    action_text = 'Buy' if action.upper() in ['B', 'BUY'] else 'Sell'\n    body_lines = [\n        \"📋 Order Details:\",",
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "send_gtt_created_email",
+        "kind": 2,
+        "importPath": "send_email",
+        "description": "send_email",
+        "peekOfCode": "def send_gtt_created_email(tradingsymbol, qty, trigger_price, action, order_type, gtt_id):\n    subject = \"⏱️ GTT Created (Pre‑open fallback)\"\n    action_text = 'Buy' if action.upper() in ['B', 'BUY'] else 'Sell'\n    body_lines = [\n        \"📋 GTT Details:\",\n        f\"Trading Symbol: {tradingsymbol}\",\n        f\"Quantity: {qty:,}\" if isinstance(qty, (int, float)) else f\"Quantity: {qty}\",\n        f\"Trigger @ Price: ₹{trigger_price:,.2f}\" if isinstance(trigger_price, (int, float)) else f\"Trigger @ Price: {trigger_price}\",\n        f\"Action: {action_text}\",\n        f\"Order Type (post-trigger): {order_type.upper()}\",",
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PASSWORD",
+        "kind": 5,
+        "importPath": "send_email",
+        "description": "send_email",
+        "peekOfCode": "EMAIL_PASSWORD = 'snwhdlzbzwuczlsf'\ndef send_email(subject: str, body: str, to: str = None, cc: str = None):\n    \"\"\"\n    Improved send_email function with better security and error handling\n    \"\"\"\n    try:\n        # Use environment variables for security\n        email_user = EMAIL_USER\n        email_password =EMAIL_PASSWORD\n        smtp_server = SMTP_SERVER",
+        "detail": "send_email",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "def login():\n    print(\"🔄 Logging in...\")\n    response = session.post(LOGIN_URL, data=app_payload, headers=headers)\n    if response.status_code != 200:\n        raise Exception(\"Login failed with status code\", response.status_code)\n    php_sessid = session.cookies.get(\"PHPSESSID\")\n    if php_sessid:\n        print(f\"✅ Logged in. PHPSESSID: {php_sessid}\")\n        session.cookies.set(\"PHPSESSID\", php_sessid, domain=\"192.168.4.113\")\n    else:",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "call_php_insert_db_api",
+        "kind": 2,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "def call_php_insert_db_api(alert_id, payload, retry=True):\n    instruments_in = tuple(payload.get('instruments', []))\n    if len(instruments_in) == 1:\n        instruments_in = f\"('{instruments_in[0]}')\"\n    payload.pop('instruments', None)\n    response = session.post(STRATEGY_API_URL, headers=headers, data=payload)\n    if response.status_code == 401 and retry:\n        print(\"⚠️ Session expired. Retrying login...\")\n        login()\n        return call_php_insert_db_api(alert_id, payload, retry=False)",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "generate_strategy_payload",
+        "kind": 2,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "def generate_strategy_payload(alert_id, strategy_name, data, user_id):\n    expiry_date = data[0].get(\"expiry\")\n    payload = {\n        \"user_id\": user_id,\n        \"underlying\": data[0].get(\"name\"),\n        \"account_name\": \"python_api\",\n        \"entry_date\": datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"),\n        \"underlying_cmp\": data[0].get(\"price\", 0),\n        \"lot_size\": data[0].get(\"lots\"),\n        \"expiry_date\": expiry_date,",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "filter_instruments",
+        "kind": 2,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "def filter_instruments(name=None, expiry=None, instrument_type=None, exchange=None):\n    mask = pd.Series(True, index=instrument_df.index)\n    # mapping of parameter → how to apply\n    for col, val in {\n        'name': name,\n        'expiry': expiry,\n        'instrument_type': instrument_type,\n        'exchange': exchange\n    }.items():\n        if val is None:",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "lots_size_find",
+        "kind": 2,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "def lots_size_find(symbol,instrument_type):\n    df = filter_instruments(name=symbol, instrument_type=instrument_type)\n    if df.empty:\n        return None\n    lot_size_np = df.iloc[0]['lot_size']\n    lot_size = int(lot_size_np)\n    return lot_size\ndef build_payload_from_db(alert_id,basket_id, user_id):\n    print (\"trade going to live screener \")\n    db_path = r\"C:\\Users\\Alkalyme\\Downloads\\ato_project\\ato_project\\instance\\ato_system.db\"",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "build_payload_from_db",
+        "kind": 2,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "def build_payload_from_db(alert_id,basket_id, user_id):\n    print (\"trade going to live screener \")\n    db_path = r\"C:\\Users\\Alkalyme\\Downloads\\ato_project\\ato_project\\instance\\ato_system.db\"\n    conn = sqlite3.connect(db_path)\n    cursor = conn.cursor()\n    cursor.execute(\"PRAGMA foreign_keys = OFF;\")\n    cursor.execute(\"SELECT symbol FROM alerts WHERE id = ?\", (alert_id,))\n    alert_row = cursor.fetchone()\n    if not alert_row:\n        raise ValueError(\"Alert not found.\")",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "insert_eq_scanner_entries",
+        "kind": 2,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "def insert_eq_scanner_entries(eq_orders_data,alert_id):\n    db_path = r\"C:\\Users\\Alkalyme\\Downloads\\ato_project\\ato_project\\instance\\ato_system.db\"\n    conn = sqlite3.connect(db_path)\n    cursor = conn.cursor()\n    try:\n        # 1) Prepare data\n        currundate = datetime.now().date().isoformat()\n        instrument  = eq_orders_data[0]\n        qty         = int(eq_orders_data[1]) if eq_orders_data[1] else 0\n        price       = float(eq_orders_data[2]) if eq_orders_data[2] else 0.0",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "file_path = INSTRUMENTS_CSV_PATH\ninstrument_df = pd.read_csv(file_path)\nBASE_URL = \"http://192.168.4.113/khopcha/\"\nLOGIN_URL = BASE_URL + \"login_user.php\"\nSTRATEGY_API_URL = BASE_URL + \"testing_insert_script.php\"\nsession_path = r\"\\\\Velocity\\c\\wamp64\\tmp\"\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\napp_payload = {\n    \"username\": \"ALK-CNH\",",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "instrument_df",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "instrument_df = pd.read_csv(file_path)\nBASE_URL = \"http://192.168.4.113/khopcha/\"\nLOGIN_URL = BASE_URL + \"login_user.php\"\nSTRATEGY_API_URL = BASE_URL + \"testing_insert_script.php\"\nsession_path = r\"\\\\Velocity\\c\\wamp64\\tmp\"\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\napp_payload = {\n    \"username\": \"ALK-CNH\",\n    \"password\": \"convonix\"",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "BASE_URL = \"http://192.168.4.113/khopcha/\"\nLOGIN_URL = BASE_URL + \"login_user.php\"\nSTRATEGY_API_URL = BASE_URL + \"testing_insert_script.php\"\nsession_path = r\"\\\\Velocity\\c\\wamp64\\tmp\"\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\napp_payload = {\n    \"username\": \"ALK-CNH\",\n    \"password\": \"convonix\"\n}",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "LOGIN_URL = BASE_URL + \"login_user.php\"\nSTRATEGY_API_URL = BASE_URL + \"testing_insert_script.php\"\nsession_path = r\"\\\\Velocity\\c\\wamp64\\tmp\"\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\napp_payload = {\n    \"username\": \"ALK-CNH\",\n    \"password\": \"convonix\"\n}\nheaders = {",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "STRATEGY_API_URL",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "STRATEGY_API_URL = BASE_URL + \"testing_insert_script.php\"\nsession_path = r\"\\\\Velocity\\c\\wamp64\\tmp\"\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\napp_payload = {\n    \"username\": \"ALK-CNH\",\n    \"password\": \"convonix\"\n}\nheaders = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "session_path",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "session_path = r\"\\\\Velocity\\c\\wamp64\\tmp\"\napache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\napp_payload = {\n    \"username\": \"ALK-CNH\",\n    \"password\": \"convonix\"\n}\nheaders = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\": BASE_URL + \"login.php\",",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "apache_username",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "apache_username = \"khopcha\"\napache_password = \"qazqwe@123\"\napp_payload = {\n    \"username\": \"ALK-CNH\",\n    \"password\": \"convonix\"\n}\nheaders = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\": BASE_URL + \"login.php\",\n    \"Origin\": BASE_URL.rstrip('/'),",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "apache_password",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "apache_password = \"qazqwe@123\"\napp_payload = {\n    \"username\": \"ALK-CNH\",\n    \"password\": \"convonix\"\n}\nheaders = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\": BASE_URL + \"login.php\",\n    \"Origin\": BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "app_payload",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "app_payload = {\n    \"username\": \"ALK-CNH\",\n    \"password\": \"convonix\"\n}\nheaders = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\": BASE_URL + \"login.php\",\n    \"Origin\": BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",\n    \"Content-Type\": \"application/x-www-form-urlencoded\"",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "headers = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\",\n    \"Referer\": BASE_URL + \"login.php\",\n    \"Origin\": BASE_URL.rstrip('/'),\n    \"X-Requested-With\": \"XMLHttpRequest\",\n    \"Content-Type\": \"application/x-www-form-urlencoded\"\n}\nsession = requests.Session()\nsession.auth = HTTPBasicAuth(apache_username, apache_password)\ndef login():",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "session = requests.Session()\nsession.auth = HTTPBasicAuth(apache_username, apache_password)\ndef login():\n    print(\"🔄 Logging in...\")\n    response = session.post(LOGIN_URL, data=app_payload, headers=headers)\n    if response.status_code != 200:\n        raise Exception(\"Login failed with status code\", response.status_code)\n    php_sessid = session.cookies.get(\"PHPSESSID\")\n    if php_sessid:\n        print(f\"✅ Logged in. PHPSESSID: {php_sessid}\")",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "session.auth",
+        "kind": 5,
+        "importPath": "send_live_screener",
+        "description": "send_live_screener",
+        "peekOfCode": "session.auth = HTTPBasicAuth(apache_username, apache_password)\ndef login():\n    print(\"🔄 Logging in...\")\n    response = session.post(LOGIN_URL, data=app_payload, headers=headers)\n    if response.status_code != 200:\n        raise Exception(\"Login failed with status code\", response.status_code)\n    php_sessid = session.cookies.get(\"PHPSESSID\")\n    if php_sessid:\n        print(f\"✅ Logged in. PHPSESSID: {php_sessid}\")\n        session.cookies.set(\"PHPSESSID\", php_sessid, domain=\"192.168.4.113\")",
+        "detail": "send_live_screener",
+        "documentation": {}
+    },
+    {
+        "label": "ema",
+        "kind": 2,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "def ema(s: pd.Series, n: int) -> pd.Series:\n    return s.ewm(span=n, adjust=False).mean()\ndef atr(df: pd.DataFrame, n: int = 14) -> pd.Series:\n    pc = df[\"close\"].shift(1)\n    tr = pd.concat([(df[\"high\"]-df[\"low\"]).abs(), (df[\"high\"]-pc).abs(), (df[\"low\"]-pc).abs()], axis=1).max(axis=1)\n    return tr.rolling(n).mean()\ndef supertrend(df: pd.DataFrame, period=10, mult=3.0) -> pd.Series:\n    _atr = atr(df, period); hl2 = (df[\"high\"]+df[\"low\"])/2\n    ub = hl2 + mult*_atr; lb = hl2 - mult*_atr\n    st = pd.Series(index=df.index, dtype=float)",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "atr",
+        "kind": 2,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "def atr(df: pd.DataFrame, n: int = 14) -> pd.Series:\n    pc = df[\"close\"].shift(1)\n    tr = pd.concat([(df[\"high\"]-df[\"low\"]).abs(), (df[\"high\"]-pc).abs(), (df[\"low\"]-pc).abs()], axis=1).max(axis=1)\n    return tr.rolling(n).mean()\ndef supertrend(df: pd.DataFrame, period=10, mult=3.0) -> pd.Series:\n    _atr = atr(df, period); hl2 = (df[\"high\"]+df[\"low\"])/2\n    ub = hl2 + mult*_atr; lb = hl2 - mult*_atr\n    st = pd.Series(index=df.index, dtype=float)\n    for i in range(len(df)):\n        st.iloc[i] = ub.iloc[i] if i==0 else (lb.iloc[i] if df[\"close\"].iloc[i] > st.iloc[i-1] else ub.iloc[i])",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "supertrend",
+        "kind": 2,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "def supertrend(df: pd.DataFrame, period=10, mult=3.0) -> pd.Series:\n    _atr = atr(df, period); hl2 = (df[\"high\"]+df[\"low\"])/2\n    ub = hl2 + mult*_atr; lb = hl2 - mult*_atr\n    st = pd.Series(index=df.index, dtype=float)\n    for i in range(len(df)):\n        st.iloc[i] = ub.iloc[i] if i==0 else (lb.iloc[i] if df[\"close\"].iloc[i] > st.iloc[i-1] else ub.iloc[i])\n    return st\ndef _phi(x): return math.exp(-0.5*x*x)/math.sqrt(2*math.pi)\ndef _cdf(x): return 0.5*(1+math.erf(x/math.sqrt(2)))\ndef _bs_price(S,K,T,r,q,sig,typ):",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_option_chain_context",
+        "kind": 2,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "def fetch_option_chain_context(\n    kite: KiteConnect,\n    index: str = \"NIFTY\",\n    expiry: Optional[dt.date] = None,\n    strikes_around: int = 12,\n    risk_free_rate: float = 0.065,\n    div_yield: float = 0.0,\n    intraday_tf: str = \"5minute\",\n    tz_close_hour: int = 15,\n    tz_close_min: int = 30,",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "build_ai_packet",
+        "kind": 2,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "def build_ai_packet(\n    index: str,\n    ctx: Dict[str, Any],\n    risk_envelope: Dict[str, Any],\n    gates: Dict[str, Any] = GATES_DEFAULT,\n    allow_strategies: List[str] = (\"credit_spread\",\"debit_spread\",\"straddle\",\"strangle\",\"naked\")\n) -> Dict[str, Any]:\n    trend = ctx.get(\"trend_context\") or {}\n    packet = {\n        \"index\": index,",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "build_llm_prompt",
+        "kind": 2,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "def build_llm_prompt() -> str:\n    \"\"\"Tight instruction for the LLM. You will send this + the JSON packet.\"\"\"\n    return (\n        \"SYSTEM: You are an index options trade approver. Decide GO/NO_GO and propose ONE trade.\\n\"\n        \"HARD GATES (must all pass for GO):\\n\"\n        \"- Time filter: no new intraday trades before 09:20 IST or after 15:15 IST.\\n\"\n        \"- Liquidity: each leg bid-ask <= 1% (scalp) or <= 2% (swing) and visible depth.\\n\"\n        \"- If credit_spread: credit >= 25% of width, R:R <= 1:3, POP >= 70%, EV >= 0.\\n\"\n        \"- Use ATM IV (avg CE/PE) and T_years from context to estimate POP via lognormal.\\n\"\n        \"SELECTION:\\n\"",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "finalize_ai_decision",
+        "kind": 2,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "def finalize_ai_decision(ai_json: Dict[str, Any]) -> Dict[str, Any]:\n    \"\"\"\n    Ensures totals are correct and losses are negative.\n    If totals are missing, computes them from per-lot and lot_count.\n    Returns a clean dict (no nulls).\n    \"\"\"\n    p = json.loads(json.dumps(ai_json))  # deep copy\n    ls = int(p[\"position\"][\"lot_size\"])\n    lc = int(p[\"position\"][\"lot_count\"])\n    entry = float(p[\"entry\"][\"net_premium\"])",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "INDEX_ALIAS",
+        "kind": 5,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "INDEX_ALIAS = {\n    \"NIFTY\": \"NSE:NIFTY 50\",\n    \"BANKNIFTY\": \"NSE:NIFTY BANK\",\n    \"FINNIFTY\": \"NSE:NIFTY FIN SERVICE\",\n}\nSTRIKE_STEP = {\"NIFTY\": 50, \"BANKNIFTY\": 100, \"FINNIFTY\": 50}\nVIX_ALIAS = \"NSE:INDIAVIX\"\nGATES_DEFAULT = {\n    \"max_spread_pct_scalp\": 1.0,      # per-leg bid-ask %\n    \"max_spread_pct_swing\": 2.0,",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "STRIKE_STEP",
+        "kind": 5,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "STRIKE_STEP = {\"NIFTY\": 50, \"BANKNIFTY\": 100, \"FINNIFTY\": 50}\nVIX_ALIAS = \"NSE:INDIAVIX\"\nGATES_DEFAULT = {\n    \"max_spread_pct_scalp\": 1.0,      # per-leg bid-ask %\n    \"max_spread_pct_swing\": 2.0,\n    \"min_credit_pct_of_width\": 0.25,  # credit >= 25% of width (credit spreads)\n    \"min_rr_inverse\": 0.33,           # credit/(width-credit) >= 0.33  ==> R:R <= 1:3\n    \"min_pop_credit\": 0.70,           # POP >= 70% for short credit\n    \"require_non_negative_ev\": True,  # EV >= 0 using POP est\n    \"time_no_trade_before\": \"09:20\",",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "VIX_ALIAS",
+        "kind": 5,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "VIX_ALIAS = \"NSE:INDIAVIX\"\nGATES_DEFAULT = {\n    \"max_spread_pct_scalp\": 1.0,      # per-leg bid-ask %\n    \"max_spread_pct_swing\": 2.0,\n    \"min_credit_pct_of_width\": 0.25,  # credit >= 25% of width (credit spreads)\n    \"min_rr_inverse\": 0.33,           # credit/(width-credit) >= 0.33  ==> R:R <= 1:3\n    \"min_pop_credit\": 0.70,           # POP >= 70% for short credit\n    \"require_non_negative_ev\": True,  # EV >= 0 using POP est\n    \"time_no_trade_before\": \"09:20\",\n    \"time_no_trade_after_intraday\": \"15:15\"",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "GATES_DEFAULT",
+        "kind": 5,
+        "importPath": "trading_bot",
+        "description": "trading_bot",
+        "peekOfCode": "GATES_DEFAULT = {\n    \"max_spread_pct_scalp\": 1.0,      # per-leg bid-ask %\n    \"max_spread_pct_swing\": 2.0,\n    \"min_credit_pct_of_width\": 0.25,  # credit >= 25% of width (credit spreads)\n    \"min_rr_inverse\": 0.33,           # credit/(width-credit) >= 0.33  ==> R:R <= 1:3\n    \"min_pop_credit\": 0.70,           # POP >= 70% for short credit\n    \"require_non_negative_ev\": True,  # EV >= 0 using POP est\n    \"time_no_trade_before\": \"09:20\",\n    \"time_no_trade_after_intraday\": \"15:15\"\n}",
+        "detail": "trading_bot",
+        "documentation": {}
+    },
+    {
+        "label": "is_before_valid_till",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def is_before_valid_till(valid_till_str: str) -> bool:\n    \"\"\"Return True if now is before (or equal to) valid_till.\"\"\"\n    try:\n        valid_dt = datetime.fromisoformat(valid_till_str.replace(\"Z\", \"+00:00\"))\n        return datetime.now() <= valid_dt\n    except Exception as e:\n        print (\"trade is expired\")\n        return False\ndef get_instrument_id(symbol: str) -> int:\n    \"\"\"Lookup the instrument_token for a given trading symbol.\"\"\"",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "get_instrument_id",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def get_instrument_id(symbol: str) -> int:\n    \"\"\"Lookup the instrument_token for a given trading symbol.\"\"\"\n    try:\n        if symbol == \"NIFTY\":\n            symbol = \"NIFTY 50\"\n        return int(instrument_df.loc[instrument_df[\"tradingsymbol\"] == symbol, \"instrument_token\"].iloc[0])\n    except Exception as e:\n        raise ValueError(f\"Instrument '{symbol}' not found in CSV\") from e\ndef compare(a: float, operator: str, b: float) -> bool:\n    \"\"\"Compare a and b with the given operator.\"\"\"",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "compare",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def compare(a: float, operator: str, b: float) -> bool:\n    \"\"\"Compare a and b with the given operator.\"\"\"\n    if operator == \">=\":\n        return a >= b\n    elif operator == \">\":\n        return a > b\n    elif operator == \"<=\":\n        return a <= b\n    elif operator == \"<\":\n        return a < b",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_leg_pnl",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def calculate_leg_pnl(leg, current_premium):\n    \"\"\"\n    Calculates PnL for an individual leg.\n    For short position: PnL = (entry_premium - current_premium) * qty * lot_size\n    \"\"\"\n    if current_premium is None:\n        return 0\n    entry_premium = leg['entry_premium']\n    qty           = leg['quantity']\n    lot_size      = 1  # set to 50 if qty is in lots for NIFTY",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "check_basket_status_in_db",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def check_basket_status_in_db(basket_id: int, cur) -> bool:\n    \"\"\"\n    Check if basket is still active in database.\n    Returns True if basket should continue to be monitored.\n    \"\"\"\n    try:\n        cur.execute(\"SELECT status FROM baskets WHERE id = ?\", (basket_id,))\n        result = cur.fetchone()\n        if not result:\n            print(f\"⚠️ Basket {basket_id} not found in database\")",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "update_basket_exit_status_in_db",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def update_basket_exit_status_in_db(basket_id: int, cur, conn, reason: str = \"Auto exit\"):\n    \"\"\"\n    Update basket status in database when exited through risk management.\n    \"\"\"\n    try:\n        cur.execute(\"\"\"\n            UPDATE baskets \n            SET status = 'exited', \n                exit_time = ?,\n                exit_reason = ?",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "call_exit_api",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def call_exit_api(\n    basket_id: int,\n    is_partial: bool,\n    exit_all: bool,\n    leg_index: int = None,\n    exit_qty: int = None,\n    reason: str = \"Auto exit\",\n    price_type: str = \"market\"\n) -> dict:\n    \"\"\"",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "check_individual_leg_risk",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def check_individual_leg_risk(basket_id, trade, current_leg_prices, cur, conn):\n    \"\"\"\n    Individual leg risk management function.\n    UPDATED: Now returns True if any leg was exited, False otherwise.\n    This allows the main loop to track basket state properly.\n    \"\"\"\n    # Get risk settings to determine which risk type to apply\n    cur.execute(\"\"\"\n        SELECT option_type, is_active\n        FROM risk_settings ",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "get_normalized_risk_values",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def get_normalized_risk_values(risk_cfg, option_type):\n    \"\"\"\n    FIXED: Normalize different key formats from frontend/database.\n    Handles various key naming conventions for TP/SL values.\n    \"\"\"\n    tp_val = None\n    sl_val = None\n    # Print for debugging\n    print(f\"🔍 Raw risk config: {risk_cfg}\")\n    print(f\"🔍 Option type: {option_type}\")",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "check_basket_wide_risk_fixed",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def check_basket_wide_risk_fixed(basket_id: int, trade: dict, current_leg_prices: dict, \n                          current_underlying_price: float, initial_underlying_price: float, \n                          total_margin: float, cur, conn) -> bool:\n    \"\"\"\n    FIXED: Basket-wide risk management with proper key mapping.\n    \"\"\"\n    risk_cfg = trade[\"risk\"].get(\"basket\", {})\n    print(f\"🔍 Raw risk_cfg: {risk_cfg}\")\n    if not risk_cfg:\n        print(\"❌ No risk config found\")",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "check_underlying_base_risk_fixed",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def check_underlying_base_risk_fixed(basket_id: int, risk_cfg: dict, current_price: float, \n                              entry_price: float, cur, conn) -> bool:\n    \"\"\"\n    FIXED: Underlying-based risk management with proper key mapping.\n    \"\"\"\n    if not risk_cfg or current_price is None or entry_price is None:\n        return False\n    option_type = risk_cfg.get(\"option_type\")\n    if not option_type:\n        print(f\"❌ No option_type specified for underlying risk in basket {basket_id}\")",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "get_instrument_token",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def get_instrument_token(symbol=None, expiry=None, strike=None, instrument_type=None):\n    \"\"\"\n    Lookup instrument_token & tradingsymbol from instrument_df for\n    CE/PE, FUT and EQ.  Will try both 'tradingsymbol' and a\n    'symbol' or 'name' column for equities.\n    \"\"\"\n    if not symbol or not instrument_type:\n        print(\"[Token Lookup Error] Missing symbol or instrument_type.\")\n        return None\n    # make sure our inputs are uppercase strings",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "track_alert_task",
+        "kind": 2,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "def track_alert_task(self, alert_id: str):\n    \"\"\"\n    COMPLETELY UPDATED: Now properly handles task termination when trades are exited.\n    Key Changes:\n    1. Tracks basket state locally (active_baskets)\n    2. Periodically checks database for basket status\n    3. Terminates when all baskets are exited\n    4. Proper cleanup of resources\n    5. Returns exit status from risk management functions\n    6. [NEW] Resume mode: if alerts.status in (triggered/active/open), skip threshold re-trigger",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "TICK_SERVICE_URL",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "TICK_SERVICE_URL = \"http://localhost:5000/ticks\"\n# =======================\n# Load Instrument Data\n# =======================\ninstrument_df = pd.read_csv(INSTRUMENT_CSV)\ninstrument_df = instrument_df[instrument_df['exchange'].isin(['NSE','NFO'])].reset_index(drop=True)\n# =======================\n# Redis Setup\n# =======================\nredis_client = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "instrument_df",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "instrument_df = pd.read_csv(INSTRUMENT_CSV)\ninstrument_df = instrument_df[instrument_df['exchange'].isin(['NSE','NFO'])].reset_index(drop=True)\n# =======================\n# Redis Setup\n# =======================\nredis_client = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\n# =======================\n# Kite Connect Setup\n# =======================\naccess_token_path = r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt'",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "instrument_df",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "instrument_df = instrument_df[instrument_df['exchange'].isin(['NSE','NFO'])].reset_index(drop=True)\n# =======================\n# Redis Setup\n# =======================\nredis_client = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\n# =======================\n# Kite Connect Setup\n# =======================\naccess_token_path = r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt'\naccess_token = open(access_token_path).read().strip()",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "redis_client",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "redis_client = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT, decode_responses=True)\n# =======================\n# Kite Connect Setup\n# =======================\naccess_token_path = r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt'\naccess_token = open(access_token_path).read().strip()\nkite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# =======================\n# Celery Setup\n# =======================",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "access_token_path",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "access_token_path = r'\\\\Velocity\\c\\Users\\kunal\\Downloads\\LIVE_TICK_HIGH_LOW_FLASK\\LIVE_TICK_HIGH_LOW_FLASK\\zerodha_access_token.txt'\naccess_token = open(access_token_path).read().strip()\nkite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# =======================\n# Celery Setup\n# =======================\ncelery = Celery(\n    'websocket_server',\n    broker=f'redis://{REDIS_HOST}:{REDIS_PORT}/0',\n    backend=f'redis://{REDIS_HOST}:{REDIS_PORT}/0',",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "access_token = open(access_token_path).read().strip()\nkite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# =======================\n# Celery Setup\n# =======================\ncelery = Celery(\n    'websocket_server',\n    broker=f'redis://{REDIS_HOST}:{REDIS_PORT}/0',\n    backend=f'redis://{REDIS_HOST}:{REDIS_PORT}/0',\n    include=['websocket_server']",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "kite",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "kite = KiteConnect(api_key=\"zuuxkho8imp70m8c\", access_token=access_token)\n# =======================\n# Celery Setup\n# =======================\ncelery = Celery(\n    'websocket_server',\n    broker=f'redis://{REDIS_HOST}:{REDIS_PORT}/0',\n    backend=f'redis://{REDIS_HOST}:{REDIS_PORT}/0',\n    include=['websocket_server']\n)",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "celery",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "celery = Celery(\n    'websocket_server',\n    broker=f'redis://{REDIS_HOST}:{REDIS_PORT}/0',\n    backend=f'redis://{REDIS_HOST}:{REDIS_PORT}/0',\n    include=['websocket_server']\n)\n# ====================================================================\n# UTILITIES (UNCHANGED)\n# ====================================================================\ndef is_before_valid_till(valid_till_str: str) -> bool:",
+        "detail": "websocket_server",
+        "documentation": {}
+    },
+    {
+        "label": "API_BASE",
+        "kind": 5,
+        "importPath": "websocket_server",
+        "description": "websocket_server",
+        "peekOfCode": "API_BASE = \"http://localhost:5000/api\"\ndef call_exit_api(\n    basket_id: int,\n    is_partial: bool,\n    exit_all: bool,\n    leg_index: int = None,\n    exit_qty: int = None,\n    reason: str = \"Auto exit\",\n    price_type: str = \"market\"\n) -> dict:",
+        "detail": "websocket_server",
+        "documentation": {}
+    }
+]

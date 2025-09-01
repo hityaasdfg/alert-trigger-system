@@ -1,0 +1,292 @@
+Please find below an overview of our Alert Triggered Order (ATO) system workflow and an update on where we stand in its development. You can view the latest flowchart here: https://tinyurl.com/atoflowchart
+1. Initialization
+Start
+
+The entry point of the workflow.
+
+Till Date
+
+Specify the last valid date/time for the alert.
+
+
+The alert is only active until this date—if the condition never triggers by then, the trade is treated as expired and will be force-closed.
+
+2. Input Parameters
+Select Underlying / Index
+
+Choose the instrument (e.g. NIFTY, BANKNIFTY, or a specific stock) to monitor.
+
+Select Operator
+
+Pick the comparison operator for your alert: >, <, >=, <=, ==.
+
+Enter Threshold Price
+
+Define the target price level (or metric) that, when crossed per your operator, will trigger the alert.
+
+3. Basket Creation Sub-flow
+Enter Threshold Price—click Create Basket to start defining your multi-leg trade.
+
+Create Basket
+
+Instantiate a new “basket” container for one or more trade legs.
+
+Select Symbol
+
+Pick the underlying symbol for a leg (e.g. “RELIANCE”).
+
+Select Instrument (CE, PE, FUT, EQ)
+
+Choose Call Option (CE), Put Option (PE), Future (FUT), or Equity (EQ).
+
+Select Expiry
+
+Select the contract expiry date (e.g. 01-Jul-2025).
+
+Select Strike
+
+For options, choose the strike price (e.g. 18500).
+
+Add to Basket
+
+Append this configured leg to your basket using the newly selected price option (best bid/ask, market or limit order, or a specific level chosen from the depth). .
+
+You can repeat steps to include multiple legs.
+
+4. Target / Stop-Loss Setup Sub-flow
+Create a Basket for risk-management settings. we have 3 
+
+
+Per-Leg Target & Stop Loss Configuration 
+    Percentage (%)
+    📖 Selected Type: Percentage (%) - Exit when profit/loss reaches X% of entry price
+    Take Profit Example:
+    If option bought at ₹100, exit at ₹125.00 (+25%)
+    Stop Loss Example:
+    If option bought at ₹100, exit at ₹85.00 (-15%)
+
+
+    TP/SL Type for All Legs
+
+    Absolute Points
+    📖 Selected Type: Absolute Points - Exit when price moves X points from entry
+    Take Profit Example:
+    If option bought at ₹100, exit at ₹125 (+25 points)
+    Stop Loss Example:
+    If option bought at ₹100, exit at ₹85 (-15 points)
+
+    TP/SL Type for All Legs
+
+    Premium Price (₹)
+    📖 Selected Type: Premium Price (₹) - Exit when option premium reaches specific price
+    Take Profit Example:
+    Exit when option premium reaches ₹25
+    Stop Loss Example:
+    Exit when option premium drops to ₹15
+
+    TP/SL Type for All Legs
+
+    PnL Amount (₹)
+    📖 Selected Type: PnL Amount (₹) - Exit when profit/loss reaches specific amount
+    Take Profit Example:
+    Exit when leg profit reaches ₹25
+    Stop Loss Example:
+    Exit when leg loss hits ₹15
+
+
+    TP/SL Type for All Legs
+
+    PnL % on Margin
+    📖 Selected Type: PnL % on Margin - Exit when profit/loss is X% of margin used
+    Take Profit Example:
+    Exit when profit is 25% of margin used for this leg
+    Stop Loss Example:
+    Exit when loss is 15% of margin used for this leg
+
+
+
+🧺 Basket-Wide Risk Management
+    Net PnL Take Profit / Stop Loss ▼
+    📖 Net PnL Take Profit / Stop Loss
+    Exit entire basket when combined P&L reaches specific amount
+
+    ✅ Take Profit Example:
+    If basket makes ₹5,000 profit, exit all positions
+    🛑 Stop Loss Example:
+    If basket loses ₹2,000, exit all positions
+
+
+    PnL % on Total Margin ▼
+    📖 PnL % on Total Margin
+    Exit based on profit/loss percentage of total margin used
+
+    ✅ Take Profit Example:
+    If profit is 25% of margin (₹25,000 profit on ₹1,00,000 margin), exit all
+    🛑 Stop Loss Example:
+    If loss is 15% of margin (₹15,000 loss on ₹1,00,000 margin), exit all
+
+
+    Time ▼
+    📖 Time & VIX Based Exit
+    Exit at specific time
+
+    ✅ Take Profit Example:
+    Auto-exit all positions at 3:20 PM regardless of P&L
+    🛑 Stop Loss Example:
+    Auto-exit all positions at 3:20 PM regardless of P&L
+
+
+📈 Underlying Based Risk Management
+    Underlying Price Based Exit ▼
+    📖 Underlying Price Based Exit
+    Exit when underlying reaches specific price levels
+
+    ✅ Take Profit Example:
+    Exit all positions when NIFTY reaches 22,800 (target price)
+    🛑 Stop Loss Example:
+    Exit all positions when NIFTY falls to 22,200 (stop price)
+
+    Points Movement Based ▼
+    📖 Points Movement Based
+    Exit based on points movement from current underlying price
+
+    ✅ Take Profit Example:
+    Exit when underlying moves 200 points up from current level
+    🛑 Stop Loss Example:
+    Exit when underlying moves 100 points down from current level
+
+    Optionally tie your exit levels to the underlying index/stock movement instead of option P/L.
+
+5. Merge & Start Tracking
+Generate & Start Tracking
+
+Finalize basket + TP/SL settings and push the configuration into the live engine.
+
+Tracking on ATO Dashboard Status: Pending
+
+The new trade appears in the dashboard with a “Pending” flag, awaiting the alert trigger.
+
+6. Alert → Order Execution 
+Alert Condition Met
+check valid till date 
+When the live price crosses your threshold per the chosen operator, this fires.
+
+Send Email: Alert Condition Met
+
+Automated notification that your alert criterion has triggered.
+
+Create Order
+
+System constructs the actual exchange orders for all basket legs.
+
+Place Order on Zerodha
+
+Orders are submitted through the broker API to execute the basket trade.
+
+7. Monitoring Live Trade
+Track target and stop-loss on the created trade
+
+Continuously monitor on live screener each leg (or the basket net) against the TP/SL values.
+
+Decision: Target or Stop-Loss Hit?
+
+Check if any exit level has been reached.
+
+8. Exit Logic
+After the decision on whether TP or SL was hit:
+
+If Yes (Target or SL hit):
+
+Create Exit Trade
+
+Build closing orders for all affected legs.
+
+Send Email: Exit Trade Created
+
+Notify that an exit order plan exists.
+
+Place Exit Order on Zerodha
+
+Submit the closing orders to the broker.
+
+Send Email: Exit Order Placed
+
+Confirm execution request sent.
+
+Exit Live Screener
+
+Remove the trade from the dashboard, record final P/L.
+
+If No (neither target nor SL hit):
+
+Check Current Date vs. Expiry Date 
+
+If today ≤ expiry date → loop back to Track target and stop-loss and continue monitoring.
+
+If today > expiry date → treat as Expired leg and force exit:
+a. Create Expiry Exit Trade
+b. Send Email: Expiry Exit Created
+c. Place Exit Order on Zerodha
+d. Send Email: Expiry Exit Placed
+e. Exit from Live Screener
+
+
+
+
+1. Checklist of What the Updated Code Covers
+
+Payload Validation
+
+✔️ Ensures every leg’s premium_type is one of (best_bid, best_ask, market_price, limit)
+
+✔️ Requires entry_premium when premium_type == 'limit'
+
+Initialization
+
+✔️ Inserts alert, baskets, and legs into SQLite with status “pending”
+
+✔️ Sends “Alert Registered” email
+
+Pre-Trigger Loop
+
+✔️ Subscribes to Redis tick_channel for live ticks
+
+✔️ Enforces valid_till—expires and cancels the alert if overdue
+
+✔️ Checks the alert condition on the underlying symbol against the threshold
+
+Entry Order Placement
+
+✔️ Hedge-first ordering: Buys before Sells for margin efficiency
+
+✔️ Fetches the correct price per leg:
+
+best_bid, best_ask, market_price or limit (payload’s entry_premium)
+
+✔️ Falls back to a MARKET order if price fetch fails
+
+✔️ Writes back status='executed' and executed_at per leg
+
+✔️ Marks the basket as status='executed'
+
+Active Trade State
+
+✔️ Captures initial_underlying_price, list of legs, risk settings, and total_margin
+
+Post-Trigger Monitoring & Exits
+
+✔️ Expiry: force-exits legs past their expiry date, with emails
+
+✔️ Individual-Leg Risk: runs percentage, points, premium price, PnL amount, PnL%-of-margin checks
+
+✔️ Basket-Wide Risk: Net P&L, P&L%-of-total-margin, underlying move, time-based exits
+
+✔️ Underlying-Based Risk: absolute price levels & point-move triggers
+
+✔️ Exits via exit_leg and exit_all_legs, including exit_reason and timestamps
+
+Finalization
+
+✔️ Upon loop exit, sets alert to status='completed' and timestamps it
+
+✔️ Sends “Alert Completed” email
