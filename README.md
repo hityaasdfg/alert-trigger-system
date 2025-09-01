@@ -1,5 +1,3 @@
-# alert-trigger-system
-
 # Alert Trigger System (ATO)
 
 An automated **Alert Triggered Order (ATO)** system for equities, futures, and options.  
